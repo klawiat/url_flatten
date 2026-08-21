@@ -43,7 +43,7 @@ avto.ru
 cm.expert
 avito.ru
 avito.st
-full:stats.avito.ru @ads
+stats.avito.ru
 cian.ru
 cian.site
 ciangroup.ru
@@ -101,24 +101,24 @@ rocketozon.by
 xn----8sbahiqzthbd0bn.xn--p1ai # озон-доставка.рф
 xn--80aafgovrgbc7am.xn--p1ai # озондоставка.рф
 xn--e1adjldbbpv.xn--90ais # озонрокет.бел
-full:ad.ozone.ru @ads
-full:adv.ozon.ru @ads
-full:agency-adv.ozon.ru @ads
-full:analytics-adv.ozon.ru @ads
-full:beginners-adv.ozon.ru @ads
-full:google-analytics-suite.ozon.ru @ads
-full:loyalnost-adv.ozon.ru @ads
-full:new-adv.ozon.ru @ads
-full:prodvizhenie-adv.ozon.ru @ads
-full:questions-adv.ozon.ru @ads
-full:sentry.ozon.ru @ads
-full:xapi.ozon.by @ads
-full:xapi.ozon.com @ads
-full:xapi.ozon.com.by @ads
-full:xapi.ozon.com.kz @ads
-full:xapi.ozon.kz @ads
-full:xapi.ozon.ru @ads
-full:xapi.ozonru.me @ads
+ad.ozone.ru
+adv.ozon.ru
+agency-adv.ozon.ru
+analytics-adv.ozon.ru
+beginners-adv.ozon.ru
+google-analytics-suite.ozon.ru
+loyalnost-adv.ozon.ru
+new-adv.ozon.ru
+prodvizhenie-adv.ozon.ru
+questions-adv.ozon.ru
+sentry.ozon.ru
+xapi.ozon.by
+xapi.ozon.com
+xapi.ozon.com.by
+xapi.ozon.com.kz
+xapi.ozon.kz
+xapi.ozon.ru
+xapi.ozonru.me
 digital-wb.ru
 digitalwb.ru
 etradebook.ru
@@ -218,21 +218,21 @@ wldberris.ru
 wolfberries.ru
 xn--80acbjgmges7ca.xn--p1ai # вайлдберриз.рф
 xn--80acbjgsdq2cl.xn--p1ai  # вайлдберис.рф
-full:ads-gate.wildberries.ru @ads
-full:ads-media.wildberries.ru @ads
-full:ads.wildberries.ru @ads
-full:advert-api.wb.ru @ads
-full:advert-api-sandbox.wb.ru @ads
-full:advert-media-api.wb.ru @ads
-full:advert-api.wildberries.ru @ads
-full:advert-api-sandbox.wildberries.ru @ads
-full:advert-media-api.wildberries.ru @ads
-full:analytics-stage.wildberries.ru @ads
-full:analytics.wildberries.ru @ads
-full:marketing-info.wildberries.ru @ads
-full:marketplace-sentry.wb.ru @ads
-full:sentry.wb.ru @ads
-full:web-analytics.wildberries.ru @ads
+ads-gate.wildberries.ru
+ads-media.wildberries.ru
+ads.wildberries.ru
+advert-api.wb.ru
+advert-api-sandbox.wb.ru
+advert-media-api.wb.ru
+advert-api.wildberries.ru
+advert-api-sandbox.wildberries.ru
+advert-media-api.wildberries.ru
+analytics-stage.wildberries.ru
+analytics.wildberries.ru
+marketing-info.wildberries.ru
+marketplace-sentry.wb.ru
+sentry.wb.ru
+web-analytics.wildberries.ru
 drom.ru
 rdrom.ru
 gramotei.online      # Platform for learning russian
@@ -642,7 +642,7 @@ magnit.ru
 mm.ru
 acmvid.com
 mvideo.ru
-full:mvideo.edna.io
+mvideo.edna.io
 metro-cc.ru
 notik.ru
 oskelly.co
@@ -680,9 +680,9 @@ x5paket.ru
 x5q.ru
 x5static.net
 x5w.ru
-full:ads.x5.ru @ads
-full:ads.x5media.ru @ads
-full:sentry.x5.ru @ads
+ads.x5.ru
+ads.x5media.ru
+sentry.x5.ru
 krasnoeibeloe.ru
 regard.ru
 rostics.ru
@@ -741,18 +741,18 @@ otello.ru
 sber.ru
 mosmetro.ru
 mosmetro.tech
-full:bilet.nspk.ru
-full:metro.spb.ru
-full:mos.transport.vtb.ru
-full:podorozhnik.spb.ru
-full:transport.mos.ru
+bilet.nspk.ru
+metro.spb.ru
+mos.transport.vtb.ru
+podorozhnik.spb.ru
+transport.mos.ru
 gorodpay.ru
 rrtp.ru
 rzd-bonus.ru
 rzd.ru
 tutu.ru
-full:arenda.yandex.ru
-full:taxi.yandex.ru
+arenda.yandex.ru
+taxi.yandex.ru
 fasten.ru
 beget.com
 beget.ru
@@ -768,17 +768,17 @@ dashly.me
 dashlytrack.app
 mail-carrotquest.io
 pushgrow.io
-full:api-eu.carrotquest.app @ads
-full:api-eu.carrotquest.io @ads
-full:api-ru.carrotquest.app @ads
-full:api-ru.carrotquest.io @ads
-full:api-secure.carrotquest.app @ads
-full:api-secure.carrottrack.app @ads
-full:api.carrotquest.app @ads
-full:api.carrotquest.io @ads
-full:api.carrottrack.app @ads
-full:api.dashly.app @ads
-full:api.dashlytrack.app @ads
+api-eu.carrotquest.app
+api-eu.carrotquest.io
+api-ru.carrotquest.app
+api-ru.carrotquest.io
+api-secure.carrotquest.app
+api-secure.carrottrack.app
+api.carrotquest.app
+api.carrotquest.io
+api.carrottrack.app
+api.dashly.app
+api.dashlytrack.app
 ad-cdek.ru
 cdek.shopping
 cdek.ru
@@ -893,7 +893,7 @@ kaspersky.co.uk
 kaspersky.co.za
 kaspersky.com.au
 kaspersky.com.br
-kaspersky.com.cn @cn
+kaspersky.com.cn
 kaspersky.com.hk
 kaspersky.com.pl
 kaspersky.com.tr
@@ -917,110 +917,110 @@ kaspersky.ro
 kaspersky.rs
 kaspersky.ru
 kaspersky.se
-full:activation-v2.kaspersky.com @cn
-full:activation-v2.geo.kaspersky.com @cn
-full:activate.activation-v2.kaspersky.com @cn
-full:refresh-bkg.activation-v2.kaspersky.com @cn
-full:crl.kaspersky.com @cn
-full:dc1.ksn.kaspersky-labs.com @cn
-full:dc1-cert.ksn.kaspersky-labs.com @cn
-full:dc1-file.ksn.kaspersky-labs.com @cn
-full:dc1-pp.ksn.kaspersky-labs.com @cn
-full:dc1-st.ksn.kaspersky-labs.com @cn
-full:dnl-00.geo.kaspersky.com @cn
-full:dnl-01.geo.kaspersky.com @cn
-full:dnl-02.geo.kaspersky.com @cn
-full:dnl-03.geo.kaspersky.com @cn
-full:dnl-04.geo.kaspersky.com @cn
-full:dnl-05.geo.kaspersky.com @cn
-full:dnl-06.geo.kaspersky.com @cn
-full:dnl-07.geo.kaspersky.com @cn
-full:dnl-08.geo.kaspersky.com @cn
-full:dnl-09.geo.kaspersky.com @cn
-full:dnl-10.geo.kaspersky.com @cn
-full:dnl-11.geo.kaspersky.com @cn
-full:dnl-12.geo.kaspersky.com @cn
-full:dnl-13.geo.kaspersky.com @cn
-full:dnl-14.geo.kaspersky.com @cn
-full:dnl-15.geo.kaspersky.com @cn
-full:dnl-16.geo.kaspersky.com @cn
-full:dnl-17.geo.kaspersky.com @cn
-full:dnl-18.geo.kaspersky.com @cn
-full:dnl-19.geo.kaspersky.com @cn
-full:edge.geo.kaspersky.com @cn
-full:ksn-cinfo.geoksn.kaspersky.com @cn
-full:ksn-cinfo-geo.kaspersky-labs.com @cn
-full:ksn-crypto-info-geo.kaspersky-labs.com @cn
-full:ksn-crypto-kas-geo.kaspersky-labs.com @cn
-full:ksn-crypto-tcert-geo.kaspersky-labs.com @cn
-full:ksn-crypto-url-geo.kaspersky-labs.com @cn
-full:ksn-crypto-verdict-geo.kaspersky-labs.com @cn
-full:ksn-crypto-wifiplus.geoksn.kaspersky.com @cn
-full:ksn-crypto-wifiplus-geo.kaspersky-labs.com @cn
-full:ksn-dc1.geoksn.kaspersky.com @cn
-full:ksn-dc1-cert.geoksn.kaspersky.com @cn
-full:ksn-dc1-file.geoksn.kaspersky.com @cn
-full:ksn-file.geoksn.kaspersky.com @cn
-full:ksn-file-geo.kaspersky-labs.com @cn
-full:ksn-info.geoksn.kaspersky.com @cn
-full:ksn-info-geo.kaspersky-labs.com @cn
-full:ksn-kas.geoksn.kaspersky.com @cn
-full:ksn-mdr.geoksn.kaspersky.com @cn
-full:ksn-tcert.geoksn.kaspersky.com @cn
-full:ksn-tcert-geo.kaspersky-labs.com @cn
-full:ksn-url.geoksn.kaspersky.com @cn
-full:ksn-url-geo.kaspersky-labs.com @cn
-full:ksn-verdict.geoksn.kaspersky.com @cn
-full:ksn-verdict-geo.kaspersky-labs.com @cn
-full:mdr.ksn.kaspersky-labs.com @cn
-full:p00.upd.kaspersky.com @cn
-full:p01.upd.kaspersky.com @cn
-full:p02.upd.kaspersky.com @cn
-full:p03.upd.kaspersky.com @cn
-full:p04.upd.kaspersky.com @cn
-full:p05.upd.kaspersky.com @cn
-full:p06.upd.kaspersky.com @cn
-full:p07.upd.kaspersky.com @cn
-full:p08.upd.kaspersky.com @cn
-full:p09.upd.kaspersky.com @cn
-full:p10.upd.kaspersky.com @cn
-full:p11.upd.kaspersky.com @cn
-full:p12.upd.kaspersky.com @cn
-full:p13.upd.kaspersky.com @cn
-full:p14.upd.kaspersky.com @cn
-full:p15.upd.kaspersky.com @cn
-full:p16.upd.kaspersky.com @cn
-full:p17.upd.kaspersky.com @cn
-full:p18.upd.kaspersky.com @cn
-full:p19.upd.kaspersky.com @cn
-full:s00.upd.kaspersky.com @cn
-full:s01.upd.kaspersky.com @cn
-full:s02.upd.kaspersky.com @cn
-full:s03.upd.kaspersky.com @cn
-full:s04.upd.kaspersky.com @cn
-full:s05.upd.kaspersky.com @cn
-full:s06.upd.kaspersky.com @cn
-full:s07.upd.kaspersky.com @cn
-full:s08.upd.kaspersky.com @cn
-full:s09.upd.kaspersky.com @cn
-full:s10.upd.kaspersky.com @cn
-full:s11.upd.kaspersky.com @cn
-full:s12.upd.kaspersky.com @cn
-full:s13.upd.kaspersky.com @cn
-full:s14.upd.kaspersky.com @cn
-full:s15.upd.kaspersky.com @cn
-full:s16.upd.kaspersky.com @cn
-full:s17.upd.kaspersky.com @cn
-full:s18.upd.kaspersky.com @cn
-full:s19.upd.kaspersky.com @cn
+activation-v2.kaspersky.com
+activation-v2.geo.kaspersky.com
+activate.activation-v2.kaspersky.com
+refresh-bkg.activation-v2.kaspersky.com
+crl.kaspersky.com
+dc1.ksn.kaspersky-labs.com
+dc1-cert.ksn.kaspersky-labs.com
+dc1-file.ksn.kaspersky-labs.com
+dc1-pp.ksn.kaspersky-labs.com
+dc1-st.ksn.kaspersky-labs.com
+dnl-00.geo.kaspersky.com
+dnl-01.geo.kaspersky.com
+dnl-02.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+dnl-04.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
+dnl-18.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
+edge.geo.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-cinfo-geo.kaspersky-labs.com
+ksn-crypto-info-geo.kaspersky-labs.com
+ksn-crypto-kas-geo.kaspersky-labs.com
+ksn-crypto-tcert-geo.kaspersky-labs.com
+ksn-crypto-url-geo.kaspersky-labs.com
+ksn-crypto-verdict-geo.kaspersky-labs.com
+ksn-crypto-wifiplus.geoksn.kaspersky.com
+ksn-crypto-wifiplus-geo.kaspersky-labs.com
+ksn-dc1.geoksn.kaspersky.com
+ksn-dc1-cert.geoksn.kaspersky.com
+ksn-dc1-file.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-file-geo.kaspersky-labs.com
+ksn-info.geoksn.kaspersky.com
+ksn-info-geo.kaspersky-labs.com
+ksn-kas.geoksn.kaspersky.com
+ksn-mdr.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
+ksn-tcert-geo.kaspersky-labs.com
+ksn-url.geoksn.kaspersky.com
+ksn-url-geo.kaspersky-labs.com
+ksn-verdict.geoksn.kaspersky.com
+ksn-verdict-geo.kaspersky-labs.com
+mdr.ksn.kaspersky-labs.com
+p00.upd.kaspersky.com
+p01.upd.kaspersky.com
+p02.upd.kaspersky.com
+p03.upd.kaspersky.com
+p04.upd.kaspersky.com
+p05.upd.kaspersky.com
+p06.upd.kaspersky.com
+p07.upd.kaspersky.com
+p08.upd.kaspersky.com
+p09.upd.kaspersky.com
+p10.upd.kaspersky.com
+p11.upd.kaspersky.com
+p12.upd.kaspersky.com
+p13.upd.kaspersky.com
+p14.upd.kaspersky.com
+p15.upd.kaspersky.com
+p16.upd.kaspersky.com
+p17.upd.kaspersky.com
+p18.upd.kaspersky.com
+p19.upd.kaspersky.com
+s00.upd.kaspersky.com
+s01.upd.kaspersky.com
+s02.upd.kaspersky.com
+s03.upd.kaspersky.com
+s04.upd.kaspersky.com
+s05.upd.kaspersky.com
+s06.upd.kaspersky.com
+s07.upd.kaspersky.com
+s08.upd.kaspersky.com
+s09.upd.kaspersky.com
+s10.upd.kaspersky.com
+s11.upd.kaspersky.com
+s12.upd.kaspersky.com
+s13.upd.kaspersky.com
+s14.upd.kaspersky.com
+s15.upd.kaspersky.com
+s16.upd.kaspersky.com
+s17.upd.kaspersky.com
+s18.upd.kaspersky.com
+s19.upd.kaspersky.com
 kontur.ru
 kontur.host
 kontur-inc.com
-full:metrika.kontur.ru @ads
-full:sentry.kontur.host @ads
+metrika.kontur.ru
+sentry.kontur.host
 dzen.ru
-log.dzen.ru @ads
-ms.dzen.ru @ads
+log.dzen.ru
+ms.dzen.ru
 dzeninfra.ru
 apiok.ru
 insideok.ru
@@ -1039,8 +1039,8 @@ ok.ru
 okl.lt
 oktech.ru
 okcdn.ru
-full:st-ok-pts.cdn-vk.ru
-full:st-ok.cdn-vk.ru
+st-ok-pts.cdn-vk.ru
+st-ok.cdn-vk.ru
 mvk.com
 vk.cc
 vk.com
@@ -1049,21 +1049,21 @@ vk.link
 vk.ru
 vkontakte.com
 vkontakte.ru
-adv.vk.com @ads
-analytics.vk.com @ads
-ms.vk.com @ads
-ms.vk.ru @ads
-target.vk.ru @ads
-vk-analytics.ru @ads
-full:adblogger.vk.com @ads
-full:adblogger.vk.ru @ads
-full:ads.vk.com @ads
-full:ads.vk.ru @ads
-full:adv.vk.ru @ads
-full:advk.vk.ru @ads
-full:analytics.vk.ru @ads
-full:stats.vk-portal.net @ads
-full:target.vk.com @ads
+adv.vk.com
+analytics.vk.com
+ms.vk.com
+ms.vk.ru
+target.vk.ru
+vk-analytics.ru
+adblogger.vk.com
+adblogger.vk.ru
+ads.vk.com
+ads.vk.ru
+adv.vk.ru
+advk.vk.ru
+analytics.vk.ru
+stats.vk-portal.net
+target.vk.com
 cdn-vk.net
 cdn-vk.ru
 userapi.com
@@ -1131,60 +1131,60 @@ justveryok.com
 keyboardmen.com
 rabbitcounter.com
 sayeasy.eu
-ad.mail.ru @ads
-ads.viqeo.tv @ads
-adsadvisor.io @ads
-alt-ad.mail.ru @ads
-apptracer.ru @ads
-cxhub.ru @ads
-metrics.viqeo.tv @ads
-myadx.net @ads
+ad.mail.ru
+ads.viqeo.tv
+adsadvisor.io
+alt-ad.mail.ru
+apptracer.ru
+cxhub.ru
+metrics.viqeo.tv
+myadx.net
 mytrk.link # block might break something, needs further investigation
-r.mail.ru @ads
-radar.imgsmail.ru @ads
-relap.mail.ru @ads
-target.my.com @ads
-top-fwz1.mail.ru @ads
-trace-flow.ru @ads
-tracker-api.my.com @ads
-tracker.my.com @ads
-full:1l-hit.mail.ru @ads
-full:1l-hit.vkplay.ru @ads
-full:ad4.mail.ru @ads
-full:ads-integration.rustore.ru @ads
-full:ads.dahlmessenger.com @ads
-full:ads.icq.com @ads
-full:ads.rustore.ru @ads
-full:adsapp.dahlmessenger.com @ads
-full:adsapp.telega.info @ads
-full:adsapp.stage.telega.info @ads
-full:adv.rustore.ru @ads
-full:alt-r.my.com @ads
-full:an.mail.ru @ads
-full:b2.mail.ru @ads
-full:bs.mail.ru @ads
-full:click.rustore.ru @ads
-full:pixel.rustore.ru @ads
-full:r0.mail.ru @ads
-full:r0.mradx.net @ads
-full:r1.mail.ru @ads
-full:reklama.mail.ru @ads
-full:rs.mail.ru @ads
-full:sentry-ng.g.smailru.net @ads
-full:srch-telemeter10.g.smailru.net @ads
-full:sentry.dev-my.com @ads
-full:sentry.dev-my.games @ads
-full:sentry.rustore.ru @ads
-full:sentry.viqeo.tv @ads
-full:stacks.vk-portal.net @ads
-full:stats.dahlmessenger.com @ads
-full:stats.dev.telega.info @ads
-full:stats.rustore.ru @ads
-full:stats.telega.info @ads
-full:t.mail.ru @ads
-full:top-staging.mail.ru @ads
-full:whiteline.mail.ru @ads
-full:xray.mail.ru @ads
+r.mail.ru
+radar.imgsmail.ru
+relap.mail.ru
+target.my.com
+top-fwz1.mail.ru
+trace-flow.ru
+tracker-api.my.com
+tracker.my.com
+1l-hit.mail.ru
+1l-hit.vkplay.ru
+ad4.mail.ru
+ads-integration.rustore.ru
+ads.dahlmessenger.com
+ads.icq.com
+ads.rustore.ru
+adsapp.dahlmessenger.com
+adsapp.telega.info
+adsapp.stage.telega.info
+adv.rustore.ru
+alt-r.my.com
+an.mail.ru
+b2.mail.ru
+bs.mail.ru
+click.rustore.ru
+pixel.rustore.ru
+r0.mail.ru
+r0.mradx.net
+r1.mail.ru
+reklama.mail.ru
+rs.mail.ru
+sentry-ng.g.smailru.net
+srch-telemeter10.g.smailru.net
+sentry.dev-my.com
+sentry.dev-my.games
+sentry.rustore.ru
+sentry.viqeo.tv
+stacks.vk-portal.net
+stats.dahlmessenger.com
+stats.dev.telega.info
+stats.rustore.ru
+stats.telega.info
+t.mail.ru
+top-staging.mail.ru
+whiteline.mail.ru
+xray.mail.ru
 appsmail.ru
 attachmail.ru
 attachmy.com
@@ -1330,16 +1330,16 @@ mindbox.so
 popmechanic.io
 popmechanic.ru
 summitceo.ru
-e.mindbox.ru @ads
-g.mindbox.ru @ads
-s.mindbox.ru @ads
-full:api-js.mindbox.ru @ads
-full:api-ru.mindbox.cloud @ads
-full:api-staging.mindbox.ru @ads
-full:api.mindbox.cloud @ads
-full:api.mindbox.ru @ads
-full:sentry.mindbox.ru @ads
-full:sentry.popmechanic.ru @ads
+e.mindbox.ru
+g.mindbox.ru
+s.mindbox.ru
+api-js.mindbox.ru
+api-ru.mindbox.cloud
+api-staging.mindbox.ru
+api.mindbox.cloud
+api.mindbox.ru
+sentry.mindbox.ru
+sentry.popmechanic.ru
 myoffice.ru
 myoffice.team
 crazedns.ru
@@ -1522,48 +1522,48 @@ yastatic-net.ru
 yastatic.net
 yccdn.ru
 yndx.net
-adfox.ru @ads
-adfox.yandex.ru @ads
-admetrica.ru @ads
-ads.yandex @ads
-ads.yandex.ru @ads
-adv.yandex.com @ads
-adv.yandex.ru @ads
-an.yandex.ru @ads
-appmetrica.yandex.com @ads
-appmetrica.yandex.net @ads
-appmetrica.yandex.ru @ads
-appmetrica.yango.com @ads
-bs.yandex.ru @ads
-clck.yandex.ru @ads
-counter.yandex.ru @ads
-mc.yandex.ru @ads
-metrika.yandex.com @ads
-metrika.yandex.net @ads
-metrika.yandex.ru @ads
-webvisor.com @ads
-webvisor.org @ads
-yabs.yandex.ru @ads
-yads.tech @ads
-yandex-metrica.ru @ads
-yandexmetrica.com @ads
-yango-ads.com @ads
-full:adfstat.yandex.ru @ads
-full:ads.yandex.com @ads
-full:ads.yango.com @ads
-full:adsdk.yandex.ru @ads
-full:amc.yandex.ru @ads
-full:analytics.mobile.yandex.net @ads
-full:clck.yandex.com @ads
-full:clck.yandex.net @ads
-full:clck.yango.com @ads
-full:informer.yandex.ru @ads
-full:log.strm.yandex.ru @ads
-full:mc.yandex.com @ads
-full:mc.yandex.net @ads
-full:mc.yango.com @ads
-full:pixel.yandex.com @ads
-full:report.ap.yandex-net.ru @ads
+adfox.ru
+adfox.yandex.ru
+admetrica.ru
+ads.yandex
+ads.yandex.ru
+adv.yandex.com
+adv.yandex.ru
+an.yandex.ru
+appmetrica.yandex.com
+appmetrica.yandex.net
+appmetrica.yandex.ru
+appmetrica.yango.com
+bs.yandex.ru
+clck.yandex.ru
+counter.yandex.ru
+mc.yandex.ru
+metrika.yandex.com
+metrika.yandex.net
+metrika.yandex.ru
+webvisor.com
+webvisor.org
+yabs.yandex.ru
+yads.tech
+yandex-metrica.ru
+yandexmetrica.com
+yango-ads.com
+adfstat.yandex.ru
+ads.yandex.com
+ads.yango.com
+adsdk.yandex.ru
+amc.yandex.ru
+analytics.mobile.yandex.net
+clck.yandex.com
+clck.yandex.net
+clck.yango.com
+informer.yandex.ru
+log.strm.yandex.ru
+mc.yandex.com
+mc.yandex.net
+mc.yango.com
+pixel.yandex.com
+report.ap.yandex-net.ru
 alfa.me
 alfabank.ru
 alfabank.st
@@ -1615,15 +1615,15 @@ sber-bank.by
 sberbank.com
 sberbank.ru
 sbrf.ru
-ads.sber.ru @ads
-clickstream.sberbank.ru @ads
-neon.click @ads
-sbermarketing.ru @ads
-full:error-tracking.megamarket.tech @ads
-full:metrics.21-school.ru @ads
-full:sentry.sberauto.com @ads
-full:tracing-http.megamarket.tech @ads
-full:visor.sberbank.ru @ads
+ads.sber.ru
+clickstream.sberbank.ru
+neon.click
+sbermarketing.ru
+error-tracking.megamarket.tech
+metrics.21-school.ru
+sentry.sberauto.com
+tracing-http.megamarket.tech
+visor.sberbank.ru
 id.ru
 megamarket.ru
 megamarket.tech
@@ -1674,7 +1674,7 @@ jivosite.ru
 payecom.ru
 platiecom.ru
 sber.pro
-full:sberpro.vedomosti.ru
+sberpro.vedomosti.ru
 cplsb.ru
 sberspasibo.ru
 spasibo.digital
@@ -1798,8 +1798,8 @@ centraluniversity.ru
 cu.ru
 prodcontest.com
 tinkoff-edu.ru
-full:edu.tinkoff.ru
-full:education.tbank.ru
+edu.tinkoff.ru
+education.tbank.ru
 tochka-tech.com
 tochka.com
 pochtabank.ru #subsidiary
@@ -1895,8 +1895,8 @@ xn--80arpq.xn--p1ai  # йота.рф
 mts-ws.net
 mts.ru
 mymts.ru
-a.mts.ru @ads
-obs.mts.ru @ads
+a.mts.ru
+obs.mts.ru
 tvoyodbo.online
 kion.ru
 mtsmedia.ru
@@ -1904,7 +1904,7 @@ on-media.ru
 azbukainterneta.ru
 rostelecom.ru
 rt.ru
-full:sentry.iptv.rt.ru @ads
+sentry.iptv.rt.ru
 b2c-digest.ru
 t2.ru
 tele2.ru
@@ -1937,7 +1937,7 @@ public.express
 xlnk.ms
 mfa.center
 multifactor.ru
-adriver.ru @ads
-flocktory.com @ads
-roistat.com @ads
-targetads.io @ads
+adriver.ru
+flocktory.com
+roistat.com
+targetads.io

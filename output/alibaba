@@ -2,18 +2,18 @@ alibaba
 alipay
 taobao
 tmall
-alibabacloud.co.in @!cn
-alibabacloud.com @!cn
-alibabacloud.com.au @!cn
-alibabacloud.com.hk @!cn
-alibabacloud.com.my @!cn
-alibabacloud.com.sg @!cn
-alibabacloud.com.tw @!cn
-alicloud.com @!cn
-full:account-cn.alibabacloud.com @cn
-full:api.alibabacloud.com @cn
-full:cn.alibabacloud.com @cn
-full:status.alibabacloud.com @cn
+alibabacloud.co.in
+alibabacloud.com
+alibabacloud.com.au
+alibabacloud.com.hk
+alibabacloud.com.my
+alibabacloud.com.sg
+alibabacloud.com.tw
+alicloud.com
+account-cn.alibabacloud.com
+api.alibabacloud.com
+cn.alibabacloud.com
+status.alibabacloud.com
 9game.cn
 aligames.com
 jiaoyimao.cn
@@ -61,30 +61,30 @@ kunlunvi.com
 kunlunwe.com
 mxhichina.com
 myalicdn.com
-ap-southeast-1.aliyuncs.com @!cn
+ap-southeast-1.aliyuncs.com
 cn-beijing.aliyuncs.com
 cn-chengdu.aliyuncs.com
 cn-guangzhou.aliyuncs.com
 cn-hangzhou.aliyuncs.com
-cn-hongkong.aliyuncs.com @!cn
+cn-hongkong.aliyuncs.com
 cn-shanghai.aliyuncs.com
 hotfix-api.aliyuncs.com
 log-global.aliyuncs.com
-oss-ap-northeast-1.aliyuncs.com @!cn
-oss-ap-northeast-2.aliyuncs.com @!cn
-oss-ap-south-1.aliyuncs.com @!cn
-oss-ap-southeast-1.aliyuncs.com @!cn
-oss-ap-southeast-2.aliyuncs.com @!cn
-oss-ap-southeast-3.aliyuncs.com @!cn
-oss-ap-southeast-5.aliyuncs.com @!cn
-oss-ap-southeast-6.aliyuncs.com @!cn
-oss-ap-southeast-7.aliyuncs.com @!cn
+oss-ap-northeast-1.aliyuncs.com
+oss-ap-northeast-2.aliyuncs.com
+oss-ap-south-1.aliyuncs.com
+oss-ap-southeast-1.aliyuncs.com
+oss-ap-southeast-2.aliyuncs.com
+oss-ap-southeast-3.aliyuncs.com
+oss-ap-southeast-5.aliyuncs.com
+oss-ap-southeast-6.aliyuncs.com
+oss-ap-southeast-7.aliyuncs.com
 oss-cn-beijing.aliyuncs.com
 oss-cn-chengdu.aliyuncs.com
 oss-cn-guangzhou.aliyuncs.com
 oss-cn-hangzhou.aliyuncs.com
 oss-cn-heyuan.aliyuncs.com
-oss-cn-hongkong.aliyuncs.com @!cn
+oss-cn-hongkong.aliyuncs.com
 oss-cn-huhehaote.aliyuncs.com
 oss-cn-nanjing.aliyuncs.com
 oss-cn-qingdao.aliyuncs.com
@@ -92,21 +92,21 @@ oss-cn-shanghai.aliyuncs.com
 oss-cn-shenzhen.aliyuncs.com
 oss-cn-wulanchabu.aliyuncs.com
 oss-cn-zhangjiakou.aliyuncs.com
-oss-eu-central-1.aliyuncs.com @!cn
-oss-eu-west-1.aliyuncs.com @!cn
-oss-me-east-1.aliyuncs.com @!cn
-oss-us-east-1.aliyuncs.com @!cn
-oss-us-west-1.aliyuncs.com @!cn
+oss-eu-central-1.aliyuncs.com
+oss-eu-west-1.aliyuncs.com
+oss-me-east-1.aliyuncs.com
+oss-us-east-1.aliyuncs.com
+oss-us-west-1.aliyuncs.com
 registry.aliyuncs.com
-acjs.aliyun.com @ads
-adash-emas.cn-hangzhou.aliyuncs.com @ads
-adash.man.aliyuncs.com @ads
-alimama.alicdn.com @ads
-atanx.alicdn.com @ads
-atanx2.alicdn.com @ads
-baichuan-sdk.alicdn.com @ads
-nbsdk-baichuan.alicdn.com @ads
-tce.alicdn.com @ads
+acjs.aliyun.com
+adash-emas.cn-hangzhou.aliyuncs.com
+adash.man.aliyuncs.com
+alimama.alicdn.com
+atanx.alicdn.com
+atanx2.alicdn.com
+baichuan-sdk.alicdn.com
+nbsdk-baichuan.alicdn.com
+tce.alicdn.com
 alicloudccp.com
 alipan.com
 aliyundrive.cloud
@@ -124,11 +124,11 @@ amapauto.com
 anav.com
 autonavi.com
 gaode.com
-adashx.ut.amap.com @ads
-dualstack-logs.amap.com @ads
-logs.amap.com @ads
-optimus-ads.amap.com @ads
-v6-adashx.ut.amap.com @ads
+adashx.ut.amap.com
+dualstack-logs.amap.com
+logs.amap.com
+optimus-ads.amap.com
+v6-adashx.ut.amap.com
 56xiniao.com
 cainiao-inc.com
 cainiao.com
@@ -138,7 +138,7 @@ danniao.com
 dianwoda.cn
 dianwoda.com
 guoguo-app.com
-v6-adashx.ut.cainiao.com @ads
+v6-adashx.ut.cainiao.com
 ddurl.to
 dingding.xin
 dingstore.cn
@@ -159,9 +159,9 @@ elemecdn.cn
 elemecdn.com
 elenet.me
 fengniaojipei.net
-adashx.ut.ele.me @ads
-h-adashx.ut.ele.me @ads
-v6-adashx.ut.ele.me @ads
+adashx.ut.ele.me
+h-adashx.ut.ele.me
+v6-adashx.ut.ele.me
 11222.cn
 aliwx.com.cn
 aliwx.net
@@ -183,8 +183,8 @@ uc123.com
 ucfly.com
 ucweb.com
 uczzd.cn
-ads.uc.cn @ads
-adslot.uc.cn @ads
+ads.uc.cn
+adslot.uc.cn
 cnzz.com
 mobmore.com
 puata.info
@@ -195,59 +195,59 @@ umsns.com
 umtrack.com
 uyunad.com
 whalecloud.com
-aaid.umeng.com @ads
-alog.umeng.com @ads
-alog.umengcloud.com @ads
-alogs.umeng.com @ads
-alogus.umeng.com @ads
-ar.umeng.com @ads
-aspect-upush.umeng.com @ads
-audid.umeng.com @ads
-ccs.umeng.com @ads
-cnlogs.umeng.com @ads
-cnlogs.umengcloud.com @ads
-log.umtrack.com @ads
-new-aaid.umeng.com @ads
-new-aaid.umeng.com.gds.alibabadns.com @ads
-oc.umeng.com @ads
-plbslog.umeng.com @ads
-resolve.umeng.com @ads
-ulogs.umeng.com @ads
-ulogs.umengcloud.com @ads
-utoken.umeng.com @ads
-w.cnzz.com @ads
-z.gds.cnzz.com @ads
+aaid.umeng.com
+alog.umeng.com
+alog.umengcloud.com
+alogs.umeng.com
+alogus.umeng.com
+ar.umeng.com
+aspect-upush.umeng.com
+audid.umeng.com
+ccs.umeng.com
+cnlogs.umeng.com
+cnlogs.umengcloud.com
+log.umtrack.com
+new-aaid.umeng.com
+new-aaid.umeng.com.gds.alibabadns.com
+oc.umeng.com
+plbslog.umeng.com
+resolve.umeng.com
+ulogs.umeng.com
+ulogs.umengcloud.com
+utoken.umeng.com
+w.cnzz.com
+z.gds.cnzz.com
 9xsecndns.cn
 kumiao.com
 soku.com
 tudou.com
 ykimg.com
 youku.com
-youku.tv @!cn
+youku.tv
 youkuhonor.com
-youkuplay.com @!cn
-full:ykimg.alicdn.com
-ad.api.3g.youku.com @ads
-ad.api.mobile.youku.com @ads
-ad.mobile.youku.com @ads
-adashx.ut.youku.com @ads
-atm.youku.com @ads
-e.stat.ykimg.com @ads
-ems.youku.com @ads
-guanggaoad.youku.com @ads
-h-adashx.ut.youku.com @ads
-lstat.youku.com @ads
-mobilemsg.youku.com @ads
-msg.youku.com @ads
-p-log.ykimg.com @ads
-passport-log.youku.com @ads
-pl.youku.com @ads
-s-adashx.ut.youku.com @ads
-stat.youku.com @ads
-statis.api.3g.youku.com @ads
-v6-adashx.ut.youku.com @ads
-yk-ssp.ad.youku.com @ads
-ykad-data.youku.com @ads
+youkuplay.com
+ykimg.alicdn.com
+ad.api.3g.youku.com
+ad.api.mobile.youku.com
+ad.mobile.youku.com
+adashx.ut.youku.com
+atm.youku.com
+e.stat.ykimg.com
+ems.youku.com
+guanggaoad.youku.com
+h-adashx.ut.youku.com
+lstat.youku.com
+mobilemsg.youku.com
+msg.youku.com
+p-log.ykimg.com
+passport-log.youku.com
+pl.youku.com
+s-adashx.ut.youku.com
+stat.youku.com
+statis.api.3g.youku.com
+v6-adashx.ut.youku.com
+yk-ssp.ad.youku.com
+ykad-data.youku.com
 56che.com
 88cha.com
 95095.com
@@ -273,7 +273,7 @@ alifanyi.com
 aligenie.com
 alihealth.cn
 alihealth.com.cn
-alihealth.hk @!cn
+alihealth.hk
 alihive.com
 aliimg.com
 alikmd.com
@@ -364,16 +364,16 @@ yunos.com
 yushanfang.com
 zimgs.cn
 zuodao.com
-ae-rus.net @!cn
-aedns.ru @!cn
-aeplatform.ru @!cn
-aestatic.net @!cn
+ae-rus.net
+aedns.ru
+aeplatform.ru
+aestatic.net
 aliexpress.com
-aliexpress.ru @!cn
+aliexpress.ru
 aliexpress-media.com
 alipayplus.com
-alipay.hk @!cn
-alipaymo.com @!cn
+alipay.hk
+alipaymo.com
 freshhema.com
 freshippo.com
 hemamax.com
@@ -406,8 +406,8 @@ tbcache.com
 tbcdn.cn
 tburl.in
 tmall.com
-tmall.hk @!cn
-tmall.ru @!cn
+tmall.hk
+tmall.ru
 tmalltv.com
 tmjl.ai
 cueme.cn
@@ -417,7 +417,7 @@ alitrip.com
 feizhu.cn
 feizhu.com
 fliggy.com
-fliggy.hk @!cn
+fliggy.hk
 iuynfg.com
 xiami.com
 xiami.fm
@@ -438,27 +438,27 @@ lydaas.net
 lydass.cn
 lydass.com.cn
 lydass.net
-a.alimama.cn @ads
-adash-c.m.taobao.com @ads
-adash-c.ut.taobao.com @ads
-adash.m.taobao.com @ads
-adashbc.m.taobao.com @ads
-adashbc.ut.taobao.com @ads
-adashx.m.taobao.com @ads
-adashx4ae.ut.taobao.com @ads
-adashx4yt.m.taobao.com @ads
-adashxgc.ut.taobao.com @ads
-adsh.m.taobao.com @ads
-adtrack.quark.cn @ads
-c-adash.m.taobao.com @ads
-fourier.taobao.com @ads
-g.click.taobao.com @ads
-h-adashx.ut.taobao.com @ads
-h-adashx4yt.ut.taobao.com @ads
-m-adash.m.taobao.com @ads
-marketing.alibaba.com @ads
-nbsdk-baichuan.taobao.com @ads
-retcode.taobao.com @ads
-tns.simba.taobao.com @ads
-track.lc.quark.cn @ads
-v6-adashx.ut.taobao.com @ads
+a.alimama.cn
+adash-c.m.taobao.com
+adash-c.ut.taobao.com
+adash.m.taobao.com
+adashbc.m.taobao.com
+adashbc.ut.taobao.com
+adashx.m.taobao.com
+adashx4ae.ut.taobao.com
+adashx4yt.m.taobao.com
+adashxgc.ut.taobao.com
+adsh.m.taobao.com
+adtrack.quark.cn
+c-adash.m.taobao.com
+fourier.taobao.com
+g.click.taobao.com
+h-adashx.ut.taobao.com
+h-adashx4yt.ut.taobao.com
+m-adash.m.taobao.com
+marketing.alibaba.com
+nbsdk-baichuan.taobao.com
+retcode.taobao.com
+tns.simba.taobao.com
+track.lc.quark.cn
+v6-adashx.ut.taobao.com

@@ -1,9 +1,9 @@
-geforce.cn @cn
+geforce.cn
 geforce.co.kr
 geforce.co.uk
 geforce.com
 geforce.com.tw
-gputechconf.cn @cn
+gputechconf.cn
 gputechconf.co.kr
 gputechconf.com
 gputechconf.com.au
@@ -15,7 +15,7 @@ nvidia.asia
 nvidia.at
 nvidia.be
 nvidia.ch
-nvidia.cn @cn
+nvidia.cn
 nvidia.co.at
 nvidia.co.in
 nvidia.co.jp
@@ -58,6 +58,6 @@ tegrazone.co.kr
 tegrazone.com
 tegrazone.jp
 tegrazone.kr
-full:nvidia.custhelp.com
-full:nvidia.tt.omtrdc.net
-full:cn.download.nvidia.com @cn
+nvidia.custhelp.com
+nvidia.tt.omtrdc.net
+cn.download.nvidia.com

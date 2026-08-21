@@ -9,6 +9,6 @@ speedtest.co
 speedtest.net
 speedtestcustom.com
 webtest.net
-full:www.speedtest.net.cdn.cloudflare.net
+www.speedtest.net.cdn.cloudflare.net
 ookla-speedtest-central.hgconair.hgc.com.hk # HGC Global Communications 香港環電
-regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$ @ads
+||*speed.(coe|open).ad.[a-z]{2,6}.prod.hosts.ooklaserver.net*

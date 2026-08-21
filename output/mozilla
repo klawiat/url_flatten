@@ -3,8 +3,8 @@ firefox.com
 firefox.hu
 firefoxtweetmachine.com
 firefoxusercontent.com
-full:mozilla-ohttp.fastly-edge.com
-full:mozilla.map.fastly.net
+mozilla-ohttp.fastly-edge.com
+mozilla.map.fastly.net
 developer.allizom.org
 developer.mozilla.org
 mdn.allizom.net
@@ -13,7 +13,7 @@ mdn.mozilla.net
 mdn.mozit.cloud
 mdnplay.dev
 mdnyalp.dev
-full:mdn.mozillademos.org
+mdn.mozillademos.org
 allizom.net
 allizom.org
 bugzilla.org
@@ -70,7 +70,7 @@ tb.pro
 thunderbird.net
 thundermail.com
 webmademovies.org
-full:ads-img.mozilla.org @ads
-full:ads.mozilla.org @ads
-full:incoming.telemetry.mozilla.org @ads
-full:incoming-telemetry.thunderbird.net @ads
+ads-img.mozilla.org
+ads.mozilla.org
+incoming.telemetry.mozilla.org
+incoming-telemetry.thunderbird.net

@@ -1,7 +1,7 @@
 appleswift.com
 swift.org
-swiftui.cn @cn
-swiftui.com.cn @cn
+swiftui.cn
+swiftui.com.cn
 calendarserver.org
 apple-cloudkit.com
 cups.org
@@ -10,29 +10,29 @@ devimages-cdn.apple.com
 devstreaming-cdn.apple.com
 developerservices2.apple.com
 timestamp.apple.com
-full:notary-submissions-prod.s3-accelerate.amazonaws.com
-full:notary-submissions-prod.s3.us-west-2.amazonaws.com
+notary-submissions-prod.s3-accelerate.amazonaws.com
+notary-submissions-prod.s3.us-west-2.amazonaws.com
 foundationdb.org
 macosforge.org
 macruby.com
 macruby.net
 macruby.org
 apple-mapkit.com
-full:cdn.apple-mapkit.com @cn
-full:cdn1.apple-mapkit.com @cn
-full:cdn2.apple-mapkit.com @cn
-full:cdn3.apple-mapkit.com @cn
-full:cdn4.apple-mapkit.com @cn
-full:cdn-cn.apple-mapkit.com @cn
-full:cdn-cn1.apple-mapkit.com @cn
-full:cdn-cn2.apple-mapkit.com @cn
-full:cdn-cn3.apple-mapkit.com @cn
-full:cdn-cn4.apple-mapkit.com @cn
+cdn.apple-mapkit.com
+cdn1.apple-mapkit.com
+cdn2.apple-mapkit.com
+cdn3.apple-mapkit.com
+cdn4.apple-mapkit.com
+cdn-cn.apple-mapkit.com
+cdn-cn1.apple-mapkit.com
+cdn-cn2.apple-mapkit.com
+cdn-cn3.apple-mapkit.com
+cdn-cn4.apple-mapkit.com
 playgrounds-cdn.apple.com
 carekit.org
 researchandcare.org
-researchkit.cn @cn
-researchkit.com.cn @cn
+researchkit.cn
+researchkit.com.cn
 researchkit.hk
 researchkit.net
 researchkit.org
@@ -42,9 +42,9 @@ webkit.org
 webkitgtk.org
 wpewebkit.org
 webobjects.com
-full:appleworldwidedeveloper.hb-api.omtrdc.net
-full:appleworldwidedeveloper.sc.omtrdc.net
-full:p-events-delivery.akamaized.net
+appleworldwidedeveloper.hb-api.omtrdc.net
+appleworldwidedeveloper.sc.omtrdc.net
+p-events-delivery.akamaized.net
 applemusic.berlin
 applemusic.co
 applemusic.com
@@ -56,32 +56,30 @@ applemusicfestival.com
 musickit.net
 wwwapplemusic.com
 music.apple.com
-full:amp-api-edge.music.apple.com @cn
-full:amp-api.music.apple.com @cn
-full:js-cdn.music.apple.com @cn
-full:music.apple.com @cn
-full:musicstatus.music.apple.com @cn
-full:play.music.apple.com @cn
-full:speedysub.music.apple.com @cn
-full:certs-lb.apple.com.akadns.net @cn
-full:certs.apple.com @cn
-full:crl-lb.apple.com.akadns.net @cn
-full:crl.apple.com @cn
-full:ocsp.apple.com @cn
-full:ocsp2.apple.com @cn
-full:valid.apple.com @cn
-full:valid.origin-apple.com.akadns.net @cn
+amp-api-edge.music.apple.com
+amp-api.music.apple.com
+js-cdn.music.apple.com
+musicstatus.music.apple.com
+play.music.apple.com
+speedysub.music.apple.com
+certs-lb.apple.com.akadns.net
+certs.apple.com
+crl-lb.apple.com.akadns.net
+crl.apple.com
+ocsp.apple.com
+ocsp2.apple.com
+valid.apple.com
+valid.origin-apple.com.akadns.net
 applepodcasts.com
 podcasts.apple.com
-full:amp-api.podcasts.apple.com @cn
-full:podcasts.apple.com @cn
-full:apple-tv-plus-press.apple.com
-full:hls-amt.itunes.apple.com
-full:hls.itunes.apple.com
-full:np-edge.itunes.apple.com
-full:play-edge.itunes.apple.com
-full:tv.applemusic.com
-full:uts-api.itunes.apple.com
+amp-api.podcasts.apple.com
+apple-tv-plus-press.apple.com
+hls-amt.itunes.apple.com
+hls.itunes.apple.com
+np-edge.itunes.apple.com
+play-edge.itunes.apple.com
+tv.applemusic.com
+uts-api.itunes.apple.com
 tv.apple.com
 appldnld.apple.com
 configuration.apple.com
@@ -169,12 +167,12 @@ beats-sale.com
 beats-seller.com
 beats-soaho.com
 beats1.cc
-beats1.cn @cn
+beats1.cn
 beats1.tv
-beats1.com.cn @cn
+beats1.com.cn
 beats123.com
-beats2.com.cn @cn
-beats4.cn @cn
+beats2.com.cn
+beats4.cn
 beats4.net
 beats4outlets.com
 beats4salecheap.com
@@ -217,8 +215,8 @@ beatsbydre-sell.com
 beatsbydre-store.com
 beatsbydre-studio.com
 beatsbydre-us.com
-beatsbydre.com @cn
-beatsbydre.com.cn @cn
+beatsbydre.com
+beatsbydre.com.cn
 beatsbydre.jp
 beatsbydre2081.com
 beatsbydre411.com
@@ -352,7 +350,7 @@ beatsforme.com
 beatsfranceofficiel.com
 beatselectronic.net
 beatselectronics.com
-beatsep.cn @cn
+beatsep.cn
 beatsep.com
 beatsep.net
 beatsheadphones-discount.com
@@ -819,22 +817,22 @@ wholesalefine.com
 wholesaleonlinemart.com
 worldcoinpay.com
 yourmonsterbeats.com
-full:beatselectronicsllc.tt.omtrdc.net
+beatselectronicsllc.tt.omtrdc.net
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
-apple-icloud.cn @cn
-appleicloud.cn @cn
+apple-icloud.cn
+appleicloud.cn
 applemx-icloud.com
-icloud-apple.cn @cn
+icloud-apple.cn
 icloud-content.com
-icloud-content.com.cn @cn
+icloud-content.com.cn
 icloud-isupport.com
 icloud-sandbox.com
 icloud.ch
-icloud.cn @cn
+icloud.cn
 icloud.com
-icloud.com.cn @cn
+icloud.com.cn
 icloud.de
 icloud.ee
 icloud.fi
@@ -844,7 +842,7 @@ icloud.ie
 icloud.is
 icloud.jp
 icloud.lv
-icloud.net.cn @cn
+icloud.net.cn
 icloud.om
 icloud.org
 icloud.pt
@@ -854,7 +852,7 @@ icloud.si
 icloud.sk
 icloud.vn
 icloudads.net
-icloudapple.cn @cn
+icloudapple.cn
 icloudbox.net
 icloudbrowser.net
 icloude.com
@@ -875,7 +873,7 @@ me.com
 myicloud.net
 mylcloud.net
 wwwicloud.com
-full:www-cdn.icloud.com.akadns.net
+www-cdn.icloud.com.akadns.net
 12diasdepresentesdeitunes.com
 12diasderegalosdeitunes.cl
 12diasderegalosdeitunes.co
@@ -892,11 +890,11 @@ full:www-cdn.icloud.com.akadns.net
 12diasderegalosdeitunes.hn
 12diasderegalosdeitunes.pe
 12joursdecadeauxdeitunes.com
-apple-itunes.cn @cn
+apple-itunes.cn
 itun.es
 itunbes.com
 ituneas.com
-itunes-apple.cn @cn
+itunes-apple.cn
 itunes-radio.net
 itunes.ca
 itunes.co
@@ -908,7 +906,7 @@ itunes.org
 itunes.rio
 itunes.us
 itunes12days.com
-itunesapple.cn @cn
+itunesapple.cn
 itunesessentials.com
 itunesfestivals.com
 itunesiradio.com
@@ -916,9 +914,9 @@ ituneslatino.com
 ituneslogin.net
 itunesmatch.com
 itunesparty.com
-itunesradio.cn @cn
+itunesradio.cn
 itunesradio.com
-itunesradio.com.cn @cn
+itunesradio.com.cn
 itunesradio.rio
 itunesradio.tv
 itunesradio.tw
@@ -929,51 +927,47 @@ iutunes.com
 wwwitunes.com
 itunes-apple.com.akadns.net
 itunes.apple.com
-full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net @cn
-full:amp-api-edge-lb.itunes-apple.com.akadns.net @cn
-full:aod-ssl.itunes.apple.com @cn
-full:aod.itunes.apple.com @cn
-full:apptrailers.itunes.apple.com @cn
-full:bag.itunes.apple.com @cn
-full:bookkeeper.itunes.apple.com @cn
-full:client-api.itunes.apple.com @cn
-full:cma.itunes.apple.com @cn
-full:downloaddispatch.itunes.apple.com @cn
-full:entitlements-edge.itunes.apple.com @cn
-full:fpinit.itunes.apple.com @cn
-full:inappcheck-cn.itunes-apple.com.akadns.net @cn
-full:inappcheck-lb.itunes-apple.com.akadns.net @cn
-full:inappcheck.itunes.apple.com @cn
-full:init.itunes.apple.com @cn
-full:iosapps.itunes.apple.com @cn
-full:misc-assets.itunes.apple.com @cn
-full:mvod.itunes.apple.com @cn
-full:myapp.itunes.apple.com @cn
-full:np-edge.itunes.apple.com @cn
-full:osxapps.itunes.apple.com @cn
-full:pd-nk.itunes.apple.com @cn
-full:pd.itunes.apple.com @cn
-full:play-edge.itunes.apple.com @cn
-full:play.itunes.apple.com @cn
-full:podcasts.itunes.apple.com @cn
-full:se-edge.itunes.apple.com @cn
-full:se2.itunes.apple.com @cn
-full:search.itunes.apple.com @cn
-full:sf-api-token-service.itunes.apple.com @cn
-full:sp.itunes.apple.com @cn
-full:streamingaudio.itunes.apple.com @cn
-full:su.itunes.apple.com @cn
-full:sync.itunes.apple.com @cn
-full:tf-feedback.itunes.apple.com @cn
-full:universal-activity-service.itunes.apple.com @cn
-full:upp.itunes.apple.com @cn
-full:bag-cdn.itunes-apple.com.akadns.net @cn
-full:iosapps.itunes.g.aaplimg.com @cn
-full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net @cn
-full:itunes-apple.com.akadns.net @cn
-full:itunes.apple.com @cn
-full:itunesconnect.apple.com @cn
-full:osxapps.itunes.g.aaplimg.com @cn
+amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+amp-api-edge-lb.itunes-apple.com.akadns.net
+aod-ssl.itunes.apple.com
+aod.itunes.apple.com
+apptrailers.itunes.apple.com
+bag.itunes.apple.com
+bookkeeper.itunes.apple.com
+client-api.itunes.apple.com
+cma.itunes.apple.com
+downloaddispatch.itunes.apple.com
+entitlements-edge.itunes.apple.com
+fpinit.itunes.apple.com
+inappcheck-cn.itunes-apple.com.akadns.net
+inappcheck-lb.itunes-apple.com.akadns.net
+inappcheck.itunes.apple.com
+init.itunes.apple.com
+iosapps.itunes.apple.com
+misc-assets.itunes.apple.com
+mvod.itunes.apple.com
+myapp.itunes.apple.com
+osxapps.itunes.apple.com
+pd-nk.itunes.apple.com
+pd.itunes.apple.com
+play.itunes.apple.com
+podcasts.itunes.apple.com
+se-edge.itunes.apple.com
+se2.itunes.apple.com
+search.itunes.apple.com
+sf-api-token-service.itunes.apple.com
+sp.itunes.apple.com
+streamingaudio.itunes.apple.com
+su.itunes.apple.com
+sync.itunes.apple.com
+tf-feedback.itunes.apple.com
+universal-activity-service.itunes.apple.com
+upp.itunes.apple.com
+bag-cdn.itunes-apple.com.akadns.net
+iosapps.itunes.g.aaplimg.com
+is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+itunesconnect.apple.com
+osxapps.itunes.g.aaplimg.com
 apple
 apple.ae
 apple.at
@@ -984,7 +978,7 @@ apple.ca
 apple.ch
 apple.cl
 apple.cm
-apple.cn @cn
+apple.cn
 apple.co
 apple.co.cr
 apple.co.hu
@@ -999,7 +993,7 @@ apple.com.af
 apple.com.au
 apple.com.bo
 apple.com.br
-apple.com.cn @cn
+apple.com.cn
 apple.com.co
 apple.com.de
 apple.com.do
@@ -1070,8 +1064,8 @@ apple.xn--fiqs8s # apple.中国
 apple.xyz
 app-store.wang
 appe-store.com
-apple-appstore.cn @cn
-appleappstore.cn @cn
+apple-appstore.cn
+appleappstore.cn
 appleappstore.net
 appleappstore.tv
 appsto.re
@@ -1079,7 +1073,7 @@ appstore.co.id
 appstore.hk
 appstore.my
 appstore.ph
-appstoreapple.cn @cn
+appstoreapple.cn
 asto.re
 tvappstore.net
 applecare.berlin
@@ -1129,22 +1123,22 @@ applepay.info
 applepay.jp
 applepay.rs
 applepay.tv
-applepaycash.cn @cn
-applepaycash.com.cn @cn
+applepaycash.cn
+applepaycash.com.cn
 applepaycash.net
 applepaycash.tv
 applepaymerchantsupplies.info
 applepaysupplies.berlin
-applepaysupplies.cn @cn
+applepaysupplies.cn
 applepaysupplies.com
-applepaysupplies.com.cn @cn
+applepaysupplies.com.cn
 applepaysupplies.info
 applepaysupplies.net
 applepaysupplies.tv
 applewallet.com
 applewallet.tv
 aplestore.com
-apple-store.cn @cn
+apple-store.cn
 apple-store.net
 apple-store.wang
 applestor.com
@@ -1152,7 +1146,7 @@ applestore.bg
 applestore.cc
 applestore.ch
 applestore.cm
-applestore.cn @cn
+applestore.cn
 applestore.co.hu
 applestore.co.jp
 applestore.co.ug
@@ -1160,7 +1154,7 @@ applestore.co.uk
 applestore.com
 applestore.com.au
 applestore.com.bn
-applestore.com.cn @cn
+applestore.com.cn
 applestore.com.ee
 applestore.com.eg
 applestore.com.gr
@@ -1191,8 +1185,8 @@ onlineapplestore.com
 appletv.com
 appletv.fr
 appletv.wang
-appletv4.cn @cn
-appletv4.com.cn @cn
+appletv4.cn
+appletv4.com.cn
 appletvapp.apple
 apple-watch.com.ru
 applewatch.hk
@@ -1262,7 +1256,7 @@ ipod.co.uk
 ipod.co.za
 ipod.com
 ipod.com.au
-ipod.com.cn @cn
+ipod.com.cn
 ipod.com.fr
 ipod.com.hk
 ipod.com.sg
@@ -1308,7 +1302,7 @@ fundaiphone5s.com
 hebiphone.com
 hf-iphone.com
 iphine.com
-iphone-8.com.cn @cn
+iphone-8.com.cn
 iphone-cd.com
 iphone-cn.com
 iphone-sh.com
@@ -1365,12 +1359,12 @@ macbook.co
 macbook.hk
 macbook.tw
 macbook.wang
-macbookair.cn @cn
+macbookair.cn
 macbookair.co.kr
 macbookair.co.uk
 macbookair.com
 macbookair.com.au
-macbookair.com.cn @cn
+macbookair.com.cn
 macbookair.com.es
 macbookair.es
 macbookair.hk
@@ -1420,18 +1414,18 @@ appl-e.com
 appl.com
 appl4e.com
 appla.com
-apple-dns.cn @cn
+apple-dns.cn
 apple-dns.com
-apple-dns.com.cn @cn
+apple-dns.com.cn
 apple-dns.net
 apple-enews.com
 apple-expo.com
 apple-expo.eu
 apple-hk.com
-apple-ibooks.cn @cn
+apple-ibooks.cn
 apple-inc.net
 apple-livephotoskit.com
-apple-maps.cn @cn
+apple-maps.cn
 apple-online.com
 apple-studies.com
 apple-usa.net
@@ -1445,18 +1439,18 @@ applecarbon.com
 applecard.tv
 applecentar.co.rs
 applecentar.rs
-applecenter.cn @cn
-applecenter.com.cn @cn
+applecenter.cn
+applecenter.com.cn
 applecentre.com.au
 applecentre.info
 appleclub.com.hk
 applecom.com
 applecomputer-imac.com
-applecomputer.cn @cn
+applecomputer.cn
 applecomputer.co.in
 applecomputer.co.nz
 applecomputer.com
-applecomputer.com.cn @cn
+applecomputer.com.cn
 applecomputer.com.hk
 applecomputer.com.tw
 applecomputer.hu
@@ -1465,8 +1459,8 @@ applecomputerimac.com
 applecomputerinc.info
 applecomputers.co.nz
 applecoronavirus.com
-appledns.cn @cn
-appledns.com.cn @cn
+appledns.cn
+appledns.com.cn
 appleexpo.eu
 appleexpo.info
 applefilmaker.com
@@ -1498,7 +1492,7 @@ applescreensavers.com
 applescript.info
 appleshare.info
 appleshop.co.uk
-applesiri.cn @cn
+applesiri.cn
 applesurveys.com
 appletaiwan.com
 appletips.net
@@ -1548,7 +1542,7 @@ dvdstudiopro.net
 dvdstudiopro.org
 dvdstudiopro.us
 earpod.net
-ecgapp.com.cn @cn
+ecgapp.com.cn
 ecgapp.net
 edu-research.org
 emac.co.in
@@ -1558,14 +1552,14 @@ eworld.com
 faceid99.com
 faceid99.net
 faceidglobal.com
-faceshift.cn @cn
+faceshift.cn
 facetime.net
 finalcutpro.com
 find-apple.com
 firewire.cl
 firewire.eu
 geoport.com
-homepod.cn @cn
+homepod.cn
 hopstop.tv
 ichat.co.in
 idvd.eu
@@ -1575,7 +1569,7 @@ ilife.eu
 ilife.gr
 ilife.wang
 imessage.tv
-insidear.cn @cn
+insidear.cn
 insidemacintosh.com
 iosinthecar.com
 ipa-iphone.net
@@ -1588,8 +1582,8 @@ iwork.wang
 jetfuelapp.com
 jetfuelapps.com
 latticedata.com
-livephotos.cn @cn
-livephotos.com.cn @cn
+livephotos.cn
+livephotos.com.cn
 livephotos.tv
 lojaiphone.com.br
 mac-mini.com
@@ -1644,184 +1638,172 @@ www-sms-apple.com
 wwwapple.com
 wwwapple.net
 wwwlapple.com
-xn--czrs0t4phtr3a.cn @cn # 苹果商店.cn
-xn--fiqs8sxootzz.cn @cn # 苹果中国.cn
+xn--czrs0t4phtr3a.cn
+xn--fiqs8sxootzz.cn
 xn--fiqs8sxootzz.xn--hxt814e # 苹果中国.网店
 xn--gtvq61aiijy0b.xn--hxt814e # 苹果电脑.网店
 xn--gtvz22d.wang # 苹果.wang
 xn--gtvz22d.xn--hxt814e # 苹果.网店
 xn--hxtr4rozx.xn--czr694b # 苹果店.商标
 xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
-xn--ohq11k7pl25iyo8a.cn @cn # 苹果专卖店.cn
+xn--ohq11k7pl25iyo8a.cn
 xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
-full:apple.com.akadns.net
-full:configuration-lb.ls-apple.com.akadns.net
-full:push-apple.com.akadns.net
+apple.com.akadns.net
+configuration-lb.ls-apple.com.akadns.net
+push-apple.com.akadns.net
 courier-push-apple.com.akadns.net
-full:amp-api-edge.apps.apple.com @cn
-full:amp-api-search-edge.apps.apple.com @cn
-full:amp-api.apps.apple.com @cn
-full:api-edge.apps.apple.com @cn
-full:communities.apple.com @cn
-full:discussionschinese.apple.com @cn
-full:fides-pol.apple.com @cn
-full:gspe11-2-cn-ssl.ls.apple.com @cn
-full:gspe12-cn-ssl.ls.apple.com @cn
-full:gspe85-cn-ssl.ls.apple.com @cn
-full:init.gc-lb.apple.com.akadns.net @cn
-full:init.gc.apple.com @cn
-full:km.support.apple.com @cn
-full:maps.apple.com @cn
-full:tj-pod1-smp-device.apple.com @cn
-full:tj-pod2-smp-device.apple.com @cn
-full:tj-pod3-smp-device.apple.com @cn
-full:www.support.apple.com @cn
-full:a1.mzstatic.com @cn
-full:a2.mzstatic.com @cn
-full:a3.mzstatic.com @cn
-full:a4.mzstatic.com @cn
-full:a5.mzstatic.com @cn
-full:cl1-cdn.origin-apple.com.akadns.net @cn
-full:cl2-cdn.origin-apple.com.akadns.net @cn
-full:cl3-cdn.origin-apple.com.akadns.net @cn
-full:cl4-cdn.origin-apple.com.akadns.net @cn
-full:cl5-cdn.origin-apple.com.akadns.net @cn
-full:cl1.apple.com @cn
-full:cl2.apple.com @cn
-full:cl3.apple.com @cn
-full:cl4.apple.com @cn
-full:cl5.apple.com @cn
-full:is1.mzstatic.com @cn
-full:is1-ssl.mzstatic.com @cn
-full:is2.mzstatic.com @cn
-full:is2-ssl.mzstatic.com @cn
-full:is3.mzstatic.com @cn
-full:is3-ssl.mzstatic.com @cn
-full:is4.mzstatic.com @cn
-full:is4-ssl.mzstatic.com @cn
-full:is5.mzstatic.com @cn
-full:is5-ssl.mzstatic.com @cn
-full:s.mzstatic.com @cn
-full:s1.mzstatic.com @cn
-full:s2.mzstatic.com @cn
-full:s3.mzstatic.com @cn
-full:s4.mzstatic.com @cn
-full:s5.mzstatic.com @cn
-full:adcdownload.apple.com @cn
-full:adcdownload.apple.com.akadns.net @cn
-full:amp-api-updates.apps.apple.com @cn
-full:amp-api.media.apple.com @cn
-full:app-site-association.cdn-apple.com @cn
-full:appldnld.apple.com @cn
-full:appldnld.g.aaplimg.com @cn
-full:appleid.cdn-apple.com @cn
-full:apps.mzstatic.com @cn
-full:cds-cdn.v.aaplimg.com @cn
-full:cds.apple.com @cn
-full:cds.apple.com.akadns.net @cn
-full:cdsassets.apple.com @cn
-full:cl2-cn.apple.com @cn
-full:cl2.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:cl4-cn.apple.com @cn
-full:clientflow.apple.com @cn
-full:clientflow.apple.com.akadns.net @cn
-full:cn-smp-paymentservices.apple.com @cn
-full:configuration.apple.com @cn
-full:configuration.apple.com.akadns.net @cn
-full:cstat.apple.com @cn
-full:cstat.cdn-apple.com @cn
-full:dd-cdn.origin-apple.com.akadns.net @cn
-full:dejavu.apple.com @cn
-full:devimages-cdn.apple.com @cn
-full:devstreaming-cdn.apple.com @cn
-full:download.developer.apple.com @cn
-full:experiments.apple.com @cn
-full:gs-loc-cn.apple.com @cn
-full:gs-loc.apple.com @cn
-full:gsp10-ssl-cn.ls.apple.com @cn
-full:gsp11-cn.ls.apple.com @cn
-full:gsp12-cn.ls.apple.com @cn
-full:gsp13-cn.ls.apple.com @cn
-full:gsp4-cn.ls.apple.com @cn
-full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:gsp5-cn.ls.apple.com @cn
-full:gsp85-cn-ssl.ls.apple.com @cn
-full:gspe19-2-cn-ssl.ls-apple.com.akadns.net @cn
-full:gspe19-2-cn-ssl.ls.apple.com @cn
-full:gspe19-cn-ssl.ls.apple.com @cn
-full:gspe19-cn.ls-apple.com.akadns.net @cn
-full:gspe19-cn.ls.apple.com @cn
-full:gspe21-ssl.ls.apple.com @cn
-full:gspe35-ssl.ls.apple.com @cn
-full:gspe79-cn-ssl.ls.apple.com @cn
-full:guzzoni-apple-com.v.aaplimg.com @cn
-full:guzzoni.apple.com @cn
-full:guzzoni.smoot.apple.com @cn
-full:images.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:init-kt.apple.com @cn
-full:init-p01md-lb.push-apple.com.akadns.net @cn
-full:init-p01md.apple.com @cn
-full:init-p01st-lb.push-apple.com.akadns.net @cn
-full:init-p01st.push.apple.com @cn
-full:init-s01st-lb.push-apple.com.akadns.net @cn
-full:init-s01st.push.apple.com @cn
-full:init.ess.apple.com @cn
-full:ipcdn.apple.com @cn
-full:iphone-ld.apple.com @cn
-full:iphone-ld.origin-apple.com.akadns.net @cn
-full:mensura.cdn-apple.com @cn
-full:mesu-cdn.apple.com.akadns.net @cn
-full:mesu-china.apple.com.akadns.net @cn
-full:mesu.apple.com @cn
-full:ml.cdn-apple.com @cn
-full:oscdn.apple.com @cn
-full:oscdn.origin-apple.com.akadns.net @cn
-full:pancake.apple.com @cn
-full:pba0.apple.com @cn
-full:probe.siri.apple.com @cn
-full:prod-support.apple-support.akadns.net @cn
-full:publicassets.cdn-apple.com @cn
-full:seed-sequoia.siri.apple.com @cn
-full:seed-swallow.siri.apple.com @cn
-full:seed.siri.apple.com @cn
-full:sequoia.apple.com @cn
-full:sh-pod2-smp-device.apple.com @cn
-full:shazam-insights.cdn-apple.com @cn
-full:smp-device-content.apple.com @cn
-full:static.gc.apple.com @cn
-full:stocks-sparkline-lb.apple.com.akadns.net @cn
-full:stocks-sparkline.apple.com @cn
-full:store.apple.com @cn
-full:store.apple.com.edgekey.net @cn
-full:store.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:store.storeimages.apple.com.akadns.net @cn
-full:store.storeimages.cdn-apple.com @cn
-full:support-china.apple-support.akadns.net @cn
-full:support.apple.com @cn
-full:swallow-apple-com.v.aaplimg.com @cn
-full:swallow.apple.com @cn
-full:swcatalog-cdn.apple.com.akadns.net @cn
-full:swcatalog.apple.com @cn
-full:swcdn.apple.com @cn
-full:swcdn.g.aaplimg.com @cn
-full:swdist.apple.com @cn
-full:swdist.apple.com.akadns.net @cn
-full:swscan-cdn.apple.com.akadns.net @cn
-full:swscan.apple.com @cn
-full:sylvan.apple.com @cn
-full:updates-http.cdn-apple.com @cn
-full:updates-http.cdn-apple.com.akadns.net @cn
-full:updates.cdn-apple.com @cn
-full:weather-data.apple.com @cn
-full:weather-data.apple.com.akadns.net @cn
-full:weather-map.apple.com @cn
-full:weather-map2.apple.com @cn
-full:weatherkit.apple.com @cn
-full:www.apple.com @cn
-full:www.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:xp.apple.com @cn
-advertising.apple.com @ads
-api-adservices.apple.com @ads
-iadsdk.apple.com @ads
-iad.apple.com @ads
-qwapi.com @ads
+amp-api-edge.apps.apple.com
+amp-api-search-edge.apps.apple.com
+amp-api.apps.apple.com
+api-edge.apps.apple.com
+communities.apple.com
+discussionschinese.apple.com
+fides-pol.apple.com
+gspe11-2-cn-ssl.ls.apple.com
+gspe12-cn-ssl.ls.apple.com
+gspe85-cn-ssl.ls.apple.com
+init.gc-lb.apple.com.akadns.net
+init.gc.apple.com
+km.support.apple.com
+maps.apple.com
+tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
+www.support.apple.com
+a1.mzstatic.com
+a2.mzstatic.com
+a3.mzstatic.com
+a4.mzstatic.com
+a5.mzstatic.com
+cl1-cdn.origin-apple.com.akadns.net
+cl2-cdn.origin-apple.com.akadns.net
+cl3-cdn.origin-apple.com.akadns.net
+cl4-cdn.origin-apple.com.akadns.net
+cl5-cdn.origin-apple.com.akadns.net
+cl1.apple.com
+cl2.apple.com
+cl3.apple.com
+cl4.apple.com
+cl5.apple.com
+is1.mzstatic.com
+is1-ssl.mzstatic.com
+is2.mzstatic.com
+is2-ssl.mzstatic.com
+is3.mzstatic.com
+is3-ssl.mzstatic.com
+is4.mzstatic.com
+is4-ssl.mzstatic.com
+is5.mzstatic.com
+is5-ssl.mzstatic.com
+s.mzstatic.com
+s1.mzstatic.com
+s2.mzstatic.com
+s3.mzstatic.com
+s4.mzstatic.com
+s5.mzstatic.com
+adcdownload.apple.com
+adcdownload.apple.com.akadns.net
+amp-api-updates.apps.apple.com
+amp-api.media.apple.com
+app-site-association.cdn-apple.com
+appldnld.g.aaplimg.com
+appleid.cdn-apple.com
+apps.mzstatic.com
+cds-cdn.v.aaplimg.com
+cds.apple.com
+cds.apple.com.akadns.net
+cdsassets.apple.com
+cl2-cn.apple.com
+cl2.apple.com.edgekey.net.globalredir.akadns.net
+cl4-cn.apple.com
+clientflow.apple.com
+clientflow.apple.com.akadns.net
+cn-smp-paymentservices.apple.com
+configuration.apple.com.akadns.net
+cstat.apple.com
+cstat.cdn-apple.com
+dd-cdn.origin-apple.com.akadns.net
+dejavu.apple.com
+download.developer.apple.com
+experiments.apple.com
+gs-loc-cn.apple.com
+gs-loc.apple.com
+gsp10-ssl-cn.ls.apple.com
+gsp11-cn.ls.apple.com
+gsp12-cn.ls.apple.com
+gsp13-cn.ls.apple.com
+gsp4-cn.ls.apple.com
+gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
+gsp5-cn.ls.apple.com
+gsp85-cn-ssl.ls.apple.com
+gspe19-2-cn-ssl.ls-apple.com.akadns.net
+gspe19-2-cn-ssl.ls.apple.com
+gspe19-cn-ssl.ls.apple.com
+gspe19-cn.ls-apple.com.akadns.net
+gspe19-cn.ls.apple.com
+gspe21-ssl.ls.apple.com
+gspe35-ssl.ls.apple.com
+gspe79-cn-ssl.ls.apple.com
+guzzoni-apple-com.v.aaplimg.com
+guzzoni.apple.com
+guzzoni.smoot.apple.com
+images.apple.com.edgekey.net.globalredir.akadns.net
+init-kt.apple.com
+init-p01md-lb.push-apple.com.akadns.net
+init-p01md.apple.com
+init-p01st-lb.push-apple.com.akadns.net
+init-p01st.push.apple.com
+init-s01st-lb.push-apple.com.akadns.net
+init-s01st.push.apple.com
+init.ess.apple.com
+ipcdn.apple.com
+iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
+mensura.cdn-apple.com
+mesu-cdn.apple.com.akadns.net
+mesu-china.apple.com.akadns.net
+ml.cdn-apple.com
+oscdn.origin-apple.com.akadns.net
+pancake.apple.com
+pba0.apple.com
+probe.siri.apple.com
+prod-support.apple-support.akadns.net
+publicassets.cdn-apple.com
+seed-sequoia.siri.apple.com
+seed-swallow.siri.apple.com
+seed.siri.apple.com
+sequoia.apple.com
+sh-pod2-smp-device.apple.com
+shazam-insights.cdn-apple.com
+smp-device-content.apple.com
+static.gc.apple.com
+stocks-sparkline-lb.apple.com.akadns.net
+stocks-sparkline.apple.com
+store.apple.com
+store.apple.com.edgekey.net
+store.apple.com.edgekey.net.globalredir.akadns.net
+store.storeimages.apple.com.akadns.net
+store.storeimages.cdn-apple.com
+support-china.apple-support.akadns.net
+support.apple.com
+swallow-apple-com.v.aaplimg.com
+swallow.apple.com
+swcatalog-cdn.apple.com.akadns.net
+swcatalog.apple.com
+swcdn.g.aaplimg.com
+swdist.apple.com.akadns.net
+swscan-cdn.apple.com.akadns.net
+sylvan.apple.com
+updates-http.cdn-apple.com.akadns.net
+weather-data.apple.com
+weather-data.apple.com.akadns.net
+weather-map.apple.com
+weather-map2.apple.com
+weatherkit.apple.com
+www.apple.com
+www.apple.com.edgekey.net.globalredir.akadns.net
+advertising.apple.com
+api-adservices.apple.com
+iadsdk.apple.com
+iad.apple.com
+qwapi.com

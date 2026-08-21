@@ -3,18 +3,18 @@ firebase.com
 firebase.io
 firebaseapp.com
 firebaseio.com
-full:crashlyticsreports-pa.googleapis.com @cn
-full:firebase-settings.crashlytics.com @cn
-full:firebase.google.com
-full:firebase.googleapis.com
-full:firebaseappcheck.googleapis.com
-full:firebasedynamiclinks-ipv4.googleapis.com
-full:firebasedynamiclinks-ipv6.googleapis.com
-full:firebasedynamiclinks.googleapis.com
-full:firebaseinappmessaging.googleapis.com
-full:firebaseinstallations.googleapis.com
-full:firebaselogging-pa.googleapis.com
-full:firebaselogging.googleapis.com
-full:firebaseperusertopics-pa.googleapis.com
-full:firebaseremoteconfig.googleapis.com
-full:update.crashlytics.com @cn
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+firebase.google.com
+firebase.googleapis.com
+firebaseappcheck.googleapis.com
+firebasedynamiclinks-ipv4.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebasedynamiclinks.googleapis.com
+firebaseinappmessaging.googleapis.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+update.crashlytics.com

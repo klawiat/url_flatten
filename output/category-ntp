@@ -1,26 +1,26 @@
-full:ntp.aliyun.com @cn
-full:ntp1.aliyun.com @cn
-full:ntp2.aliyun.com @cn
-full:ntp3.aliyun.com @cn
-full:ntp4.aliyun.com @cn
-full:ntp5.aliyun.com @cn
-full:ntp6.aliyun.com @cn
-full:ntp7.aliyun.com @cn
-full:time.amazonaws.cn @cn
-full:time.izatcloud.net @cn
-full:time.xtracloud.net @cn
-full:izattime.qcomgeo2.com @cn
-full:xtratime.qcomgeo2.com @cn
-full:ntp.tencent.com @cn
-full:ntp1.tencent.com @cn
-full:ntp2.tencent.com @cn
-full:ntp3.tencent.com @cn
-full:ntp4.tencent.com @cn
-full:ntp5.tencent.com @cn
-cn.pool.ntp.org @cn
-ntp.neu.edu.cn @cn
-ntp.ntsc.ac.cn @cn
-ntp.org.cn @cn
+ntp.aliyun.com
+ntp1.aliyun.com
+ntp2.aliyun.com
+ntp3.aliyun.com
+ntp4.aliyun.com
+ntp5.aliyun.com
+ntp6.aliyun.com
+ntp7.aliyun.com
+time.amazonaws.cn
+time.izatcloud.net
+time.xtracloud.net
+izattime.qcomgeo2.com
+xtratime.qcomgeo2.com
+ntp.tencent.com
+ntp1.tencent.com
+ntp2.tencent.com
+ntp3.tencent.com
+ntp4.tencent.com
+ntp5.tencent.com
+cn.pool.ntp.org
+ntp.neu.edu.cn
+ntp.ntsc.ac.cn
+ntp.org.cn
 ats1.e-timing.ne.jp
 ntp.jst.mfeed.ad.jp
 ntp1.jst.mfeed.ad.jp
@@ -49,62 +49,62 @@ ntp2.tohoku.ac.jp
 ntp.tut.ac.jp
 ntp1.wakwak.com
 ntp2.wakwak.com
-full:time.apple.com
-full:time.asia.apple.com
-full:time.euro.apple.com
-full:time.aws.com
-full:time.cloudflare.com
-full:time.facebook.com
-full:time1.facebook.com
-full:time2.facebook.com
-full:time3.facebook.com
-full:time4.facebook.com
-full:time5.facebook.com
-full:time.google.com
-full:time1.google.com
-full:time2.google.com
-full:time3.google.com
-full:time4.google.com
-full:ntp.ubuntu.com
-full:time.windows.com
-full:ut1-wwv.nist.gov
-full:ntp-b.nist.gov
-full:ntp-d.nist.gov
-full:ntp-wwv.nist.gov
-full:time.nist.gov
-full:time-a-g.nist.gov
-full:time-b-g.nist.gov
-full:time-c-g.nist.gov
-full:time-d-g.nist.gov
-full:time-e-g.nist.gov
-full:time-a-b.nist.gov
-full:time-b-b.nist.gov
-full:time-c-b.nist.gov
-full:time-d-b.nist.gov
-full:time-e-b.nist.gov
-full:time-a-wwv.nist.gov
-full:time-b-wwv.nist.gov
-full:time-c-wwv.nist.gov
-full:time-d-wwv.nist.gov
-full:time-e-wwv.nist.gov
-full:ntp-c.colorado.edu
-full:ut1-time.colorado.edu
-full:utcnist.colorado.edu
-full:utcnist2.colorado.edu
-full:utcnist3.colorado.edu
-full:ntp0.ntp-servers.net
-full:ntp1.ntp-servers.net
-full:ntp2.ntp-servers.net
-full:ntp3.ntp-servers.net
-full:ntp4.ntp-servers.net
-full:ntp5.ntp-servers.net
-full:ntp6.ntp-servers.net
-full:ntp7.ntp-servers.net
-full:ntp.time.nl
-full:ntp1.time.nl
-full:ntp2.time.nl
-full:ntppool1.time.nl
-full:ntppool2.time.nl
+time.apple.com
+time.asia.apple.com
+time.euro.apple.com
+time.aws.com
+time.cloudflare.com
+time.facebook.com
+time1.facebook.com
+time2.facebook.com
+time3.facebook.com
+time4.facebook.com
+time5.facebook.com
+time.google.com
+time1.google.com
+time2.google.com
+time3.google.com
+time4.google.com
+ntp.ubuntu.com
+time.windows.com
+ut1-wwv.nist.gov
+ntp-b.nist.gov
+ntp-d.nist.gov
+ntp-wwv.nist.gov
+time.nist.gov
+time-a-g.nist.gov
+time-b-g.nist.gov
+time-c-g.nist.gov
+time-d-g.nist.gov
+time-e-g.nist.gov
+time-a-b.nist.gov
+time-b-b.nist.gov
+time-c-b.nist.gov
+time-d-b.nist.gov
+time-e-b.nist.gov
+time-a-wwv.nist.gov
+time-b-wwv.nist.gov
+time-c-wwv.nist.gov
+time-d-wwv.nist.gov
+time-e-wwv.nist.gov
+ntp-c.colorado.edu
+ut1-time.colorado.edu
+utcnist.colorado.edu
+utcnist2.colorado.edu
+utcnist3.colorado.edu
+ntp0.ntp-servers.net
+ntp1.ntp-servers.net
+ntp2.ntp-servers.net
+ntp3.ntp-servers.net
+ntp4.ntp-servers.net
+ntp5.ntp-servers.net
+ntp6.ntp-servers.net
+ntp7.ntp-servers.net
+ntp.time.nl
+ntp1.time.nl
+ntp2.time.nl
+ntppool1.time.nl
+ntppool2.time.nl
 clock.isc.org
 ntp.fiord.ru
 ntp.nat.ms

@@ -10,14 +10,14 @@ dashly.me
 dashlytrack.app
 mail-carrotquest.io
 pushgrow.io
-full:api-eu.carrotquest.app @ads
-full:api-eu.carrotquest.io @ads
-full:api-ru.carrotquest.app @ads
-full:api-ru.carrotquest.io @ads
-full:api-secure.carrotquest.app @ads
-full:api-secure.carrottrack.app @ads
-full:api.carrotquest.app @ads
-full:api.carrotquest.io @ads
-full:api.carrottrack.app @ads
-full:api.dashly.app @ads
-full:api.dashlytrack.app @ads
+api-eu.carrotquest.app
+api-eu.carrotquest.io
+api-ru.carrotquest.app
+api-ru.carrotquest.io
+api-secure.carrotquest.app
+api-secure.carrottrack.app
+api.carrotquest.app
+api.carrotquest.io
+api.carrottrack.app
+api.dashly.app
+api.dashlytrack.app

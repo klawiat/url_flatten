@@ -1,7 +1,7 @@
 android
 android.com
 androidify.com
-full:android.googlesource.com
+android.googlesource.com
 blogger.com
 blogblog.com
 blogspot.ae
@@ -88,21 +88,21 @@ firebase.com
 firebase.io
 firebaseapp.com
 firebaseio.com
-full:crashlyticsreports-pa.googleapis.com @cn
-full:firebase-settings.crashlytics.com @cn
-full:firebase.google.com
-full:firebase.googleapis.com
-full:firebaseappcheck.googleapis.com
-full:firebasedynamiclinks-ipv4.googleapis.com
-full:firebasedynamiclinks-ipv6.googleapis.com
-full:firebasedynamiclinks.googleapis.com
-full:firebaseinappmessaging.googleapis.com
-full:firebaseinstallations.googleapis.com
-full:firebaselogging-pa.googleapis.com
-full:firebaselogging.googleapis.com
-full:firebaseperusertopics-pa.googleapis.com
-full:firebaseremoteconfig.googleapis.com
-full:update.crashlytics.com @cn
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+firebase.google.com
+firebase.googleapis.com
+firebaseappcheck.googleapis.com
+firebasedynamiclinks-ipv4.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebasedynamiclinks.googleapis.com
+firebaseinappmessaging.googleapis.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+update.crashlytics.com
 flutter.dev
 flutterapp.com
 pub.dev
@@ -120,10 +120,10 @@ geller-pa.googleapis.com
 generativelanguage.googleapis.com
 proactivebackend-pa.googleapis.com
 robinfrontend-pa.googleapis.com
-full:ai.google.dev
-full:alkalicore-pa.clients6.google.com
-full:alkalimakersuite-pa.clients6.google.com
-full:webchannel-alkalimakersuite-pa.clients6.google.com
+ai.google.dev
+alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
+webchannel-alkalimakersuite-pa.clients6.google.com
 generativeai.google
 makersuite.google.com
 ai.studio
@@ -132,11 +132,11 @@ bard.google.com
 gemini.google
 gemini.google.com
 gemini.gstatic.com
-full:cloudaicompanion.googleapis.com
-full:cloudcode-pa.googleapis.com
-full:daily-cloudcode-pa.googleapis.com
-full:notebooklm-pa.googleapis.com
-full:notebooklm.googleapis.com
+cloudaicompanion.googleapis.com
+cloudcode-pa.googleapis.com
+daily-cloudcode-pa.googleapis.com
+notebooklm-pa.googleapis.com
+notebooklm.googleapis.com
 notebook.google.com
 notebooklm.google
 notebooklm.google.com
@@ -150,8 +150,8 @@ aicode.googleapis.com
 aida.googleapis.com
 opal.google
 opal.google.com
-full:antigravity-pa.googleapis.com
-full:antigravity.googleapis.com
+antigravity-pa.googleapis.com
+antigravity.googleapis.com
 antigravity.google
 antigravity-unleash.goog
 stitch.withgoogle.com
@@ -162,9 +162,9 @@ play-lh.googleusercontent.com
 play.google.com
 play.googleapis.com
 xn--ngstr-lra8j.com
-regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$ @cn
-regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$ @cn
-full:redirector.c.play.google.com @cn
+||*r+[0-9]+(---|.)sn-(2x3|ni5|j5o)w{5}.xn--ngstr-lra8j.com*
+||*r+[0-9]+(---|.)sn-(2x3|ni5|j5o)w{5}.googlevideo.com*
+redirector.c.play.google.com
 charlestonroadregistry.com
 crr.com
 registry.google
@@ -178,106 +178,106 @@ hey.boo
 iam.soy
 new.day
 xn--p8j9a0d9c9a.xn--q9jyb4c # はじめよう.みんな
-full:scholar.google.ae
-full:scholar.google.at
-full:scholar.google.be
-full:scholar.google.bg
-full:scholar.google.ca
-full:scholar.google.cat
-full:scholar.google.ch
-full:scholar.google.cl
-full:scholar.google.cn
-full:scholar.google.co.cr
-full:scholar.google.co.id
-full:scholar.google.co.il
-full:scholar.google.co.in
-full:scholar.google.co.jp
-full:scholar.google.co.kr
-full:scholar.google.co.nz
-full:scholar.google.co.th
-full:scholar.google.co.uk
-full:scholar.google.co.ve
-full:scholar.google.co.za
-full:scholar.google.com
-full:scholar.google.com.ar
-full:scholar.google.com.au
-full:scholar.google.com.bo
-full:scholar.google.com.br
-full:scholar.google.com.co
-full:scholar.google.com.cu
-full:scholar.google.com.do
-full:scholar.google.com.ec
-full:scholar.google.com.eg
-full:scholar.google.com.gt
-full:scholar.google.com.hk
-full:scholar.google.com.ly
-full:scholar.google.com.mx
-full:scholar.google.com.my
-full:scholar.google.com.ni
-full:scholar.google.com.pa
-full:scholar.google.com.pe
-full:scholar.google.com.ph
-full:scholar.google.com.pk
-full:scholar.google.com.pr
-full:scholar.google.com.py
-full:scholar.google.com.sg
-full:scholar.google.com.sv
-full:scholar.google.com.tr
-full:scholar.google.com.tw
-full:scholar.google.com.ua
-full:scholar.google.com.uy
-full:scholar.google.com.vn
-full:scholar.google.cz
-full:scholar.google.de
-full:scholar.google.dk
-full:scholar.google.es
-full:scholar.google.fi
-full:scholar.google.fr
-full:scholar.google.gr
-full:scholar.google.hn
-full:scholar.google.hr
-full:scholar.google.hu
-full:scholar.google.is
-full:scholar.google.it
-full:scholar.google.li
-full:scholar.google.lt
-full:scholar.google.lu
-full:scholar.google.lv
-full:scholar.google.nl
-full:scholar.google.no
-full:scholar.google.pl
-full:scholar.google.pt
-full:scholar.google.ro
-full:scholar.google.ru
-full:scholar.google.se
-full:scholar.google.si
-full:scholar.google.sk
-full:scholar.googleusercontent.com
-full:scholar.l.google.com
+scholar.google.ae
+scholar.google.at
+scholar.google.be
+scholar.google.bg
+scholar.google.ca
+scholar.google.cat
+scholar.google.ch
+scholar.google.cl
+scholar.google.cn
+scholar.google.co.cr
+scholar.google.co.id
+scholar.google.co.il
+scholar.google.co.in
+scholar.google.co.jp
+scholar.google.co.kr
+scholar.google.co.nz
+scholar.google.co.th
+scholar.google.co.uk
+scholar.google.co.ve
+scholar.google.co.za
+scholar.google.com
+scholar.google.com.ar
+scholar.google.com.au
+scholar.google.com.bo
+scholar.google.com.br
+scholar.google.com.co
+scholar.google.com.cu
+scholar.google.com.do
+scholar.google.com.ec
+scholar.google.com.eg
+scholar.google.com.gt
+scholar.google.com.hk
+scholar.google.com.ly
+scholar.google.com.mx
+scholar.google.com.my
+scholar.google.com.ni
+scholar.google.com.pa
+scholar.google.com.pe
+scholar.google.com.ph
+scholar.google.com.pk
+scholar.google.com.pr
+scholar.google.com.py
+scholar.google.com.sg
+scholar.google.com.sv
+scholar.google.com.tr
+scholar.google.com.tw
+scholar.google.com.ua
+scholar.google.com.uy
+scholar.google.com.vn
+scholar.google.cz
+scholar.google.de
+scholar.google.dk
+scholar.google.es
+scholar.google.fi
+scholar.google.fr
+scholar.google.gr
+scholar.google.hn
+scholar.google.hr
+scholar.google.hu
+scholar.google.is
+scholar.google.it
+scholar.google.li
+scholar.google.lt
+scholar.google.lu
+scholar.google.lv
+scholar.google.nl
+scholar.google.no
+scholar.google.pl
+scholar.google.pt
+scholar.google.ro
+scholar.google.ru
+scholar.google.se
+scholar.google.si
+scholar.google.sk
+scholar.googleusercontent.com
+scholar.l.google.com
 pki.goog
-full:pki-goog.l.google.com @cn
-full:c.pki.goog @cn
-full:i.pki.goog @cn
-full:o.pki.goog @cn
-full:publicca.googleapis.com
-full:preprod-publicca.googleapis.com
-full:clients1.google.com
-full:pki.google.com
-full:crl.pki.goog @cn
-full:crls.pki.goog @cn
-full:ocsp.pki.goog @cn
-full:alt1-mtalk.google.com @!cn
-full:alt2-mtalk.google.com @!cn
-full:alt3-mtalk.google.com @!cn
-full:alt4-mtalk.google.com @!cn
-full:alt5-mtalk.google.com @!cn
-full:alt6-mtalk.google.com @!cn
-full:alt7-mtalk.google.com
-full:alt8-mtalk.google.com
-full:mtalk-dev.google.com
-full:mtalk-staging.google.com
-full:mtalk.google.com @!cn
-full:mtalk4.google.com
+pki-goog.l.google.com
+c.pki.goog
+i.pki.goog
+o.pki.goog
+publicca.googleapis.com
+preprod-publicca.googleapis.com
+clients1.google.com
+pki.google.com
+crl.pki.goog
+crls.pki.goog
+ocsp.pki.goog
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
+mtalk-dev.google.com
+mtalk-staging.google.com
+mtalk.google.com
+mtalk4.google.com
 kaggle.com
 kaggle.io
 kaggle.net
@@ -291,7 +291,7 @@ polymerproject.org
 v8.dev
 v8project.org
 youtube
-ggpht.cn @cn
+ggpht.cn
 ggpht.com
 googlevideo.com
 wide-youtube.l.google.com
@@ -466,8 +466,8 @@ youtubekids.com
 youtubemobilesupport.com
 yt.be
 ytimg.com
-full:yt3.googleusercontent.com
-ads.youtube.com @ads
+yt3.googleusercontent.com
+ads.youtube.com
 chrome
 dclk
 gbiz
@@ -505,7 +505,7 @@ google.ch
 google.ci
 google.cl
 google.cm
-google.cn @cn
+google.cn
 google.co
 google.co.ao
 google.co.bw
@@ -745,7 +745,7 @@ foofle.com
 froogle.com
 fuchsia.dev
 g-tun.com
-g.cn @cn
+g.cn
 g.co
 g.dev
 g.page
@@ -755,7 +755,7 @@ gerritcodereview.com
 getbumptop.com
 ggoogle.com
 gipscorp.com
-gkecnapps.cn @cn
+gkecnapps.cn
 globaledu.org
 gmail.com
 gmodules.com
@@ -782,7 +782,7 @@ googleblog.com
 googlebot.com
 googlecapital.com
 googlecert.net
-googlecnapps.cn @cn
+googlecnapps.cn
 googlecode.com
 googlecommerce.com
 googlecompare.co.uk
@@ -810,9 +810,9 @@ goolge.com
 gooogle.com
 gridaware.app
 gsrc.io
-gstatic.cn @cn
+gstatic.cn
 gstatic.com
-gstaticcnapps.cn @cn
+gstaticcnapps.cn
 gsuite.com
 gvt0.com
 gvt1.com
@@ -952,166 +952,140 @@ xn--gogl-0nd52e.com # gοoglе.com
 xn--gogl-1nd42e.com # goοglе.com
 xplr.co
 zukunftswerkstatt.de
-full:google-ohttp-relay-safebrowsing.fastly-edge.com
-2mdn-cn.net @ads
-2mdn.net @ads
-admob-cn.com @ads
-admob.com @ads
-adsense.com @ads
-adsensecustomsearchads.com @ads
-adsenseformobileapps.com @ads
-adservice.google.com @ads
-adtrafficquality.google @ads
-advertisercommunity.com @ads
-advertiserscommunity.com @ads
-adwords-community.com @ads
-adwords.com @ads
-adwordsexpress.com @ads
-analytics-alv.google.com @ads
-app-ads-services.com @ads
-app-analytics-services.com @ads
-app-analytics-services-att.com @ads
-app-measurement-cn.com @ads
-app-measurement.com @ads
-doubleclick-cn.net @ads
-doubleclick.cn @ads
-doubleclick.com @ads
-doubleclick.net @ads
-fcmatch.google.com @ads
-google-analytics-cn.com @ads
-google-analytics.com @ads
-googleadapis.com @ads
-googleadapis.l.google.com @ads
-googleads-cn.com @ads
-googleads.com @ads
-googleadservices-cn.com @ads
-googleadservices.com @ads
-googleadsserving.cn @ads
-googleanalytics.com @ads
-googleoptimize-cn.com @ads
-googleoptimize.com @ads
-googlesyndication-cn.com @ads
-googlesyndication.com @ads
-googletagmanager-cn.com @ads
-googletagmanager.com @ads
-googletagservices-cn.com @ads
-googletagservices.com @ads
-googletraveladservices-cn.com @ads
-googletraveladservices.com @ads
-googlevads-cn.com @ads
-mail-ads.google.com @ads
-mobileads.google.com @ads
-marketingplatform.google.com @ads
-pagead.l.google.com @ads
-partnerad.l.google.com @ads
-urchin.com @ads
-full:analytics.google.com @ads
-265.com @cn
-gvt1-cn.com @cn
-gvt2-cn.com @cn
-full:recaptcha-cn.net @cn
-full:recaptcha.net @cn
-full:www.recaptcha-cn.net @cn
-full:www.recaptcha.net @cn
-full:2mdn-cn.net @cn
-full:2mdn.net @cn
-full:admob-cn.com @cn
-full:adservice.google.com @cn
-full:app-analytics-services.com @cn
-full:app-measurement-cn.com @cn
-full:app-measurement.com @cn
-full:apps5.oingo.com @cn
-full:avail.googleflights.net @cn
-full:beacons.gcp.gvt2.com @cn
-full:beacons.gvt2.com @cn
-full:beacons2.gvt2.com @cn
-full:beacons3.gvt2.com @cn
-full:c.admob.com @cn
-full:c.android.clients.google.com @cn
-full:cache-management-prod.google.com @cn
-full:cache.pack.google.com @cn
-full:checkin.gstatic.com @cn
-full:clickserve.cc-dt.com @cn
-full:clickserve.dartsearch.net @cn
-full:clickserver.googleads.com @cn
-full:clientservices.googleapis.com @cn
-full:cn.widevine.com @cn
-full:connectivitycheck.gstatic.com @cn
-full:csi.gstatic.com @cn
-full:dartsearch-cn.net @cn
-full:dg-meta.video.google.com @cn
-full:dl.google.com @cn
-full:dl.l.google.com @cn
-full:doubleclick-cn.net @cn
-full:doubleclick.net @cn
-full:download.mlcc.google.com @cn
-full:download.tensorflow.google.com @cn
-full:fontfiles.googleapis.com @cn
-full:fonts.googleapis.com @cn
-full:fonts.gstatic.com @cn
-full:g0.gstatic.com @cn
-full:g1.gstatic.com @cn
-full:g2.gstatic.com @cn
-full:g3.gstatic.com @cn
-full:gonglchuangl.net @cn
-full:gongyichuangyi.net @cn
-full:google-analytics-cn.com @cn
-full:google-analytics.com @cn
-full:googleadservices-cn.com @cn
-full:googleadservices.com @cn
-full:googleanalytics.com @cn
-full:googleapis-cn.com @cn
-full:googleapps-cn.com @cn
-full:googleflights-cn.net @cn
-full:googleoptimize-cn.com @cn
-full:googleoptimize.com @cn
-full:googlesyndication-cn.com @cn
-full:googlesyndication.com @cn
-full:googletagmanager-cn.com @cn
-full:googletagmanager.com @cn
-full:googletagservices-cn.com @cn
-full:googletagservices.com @cn
-full:googletraveladservices-cn.com @cn
-full:googletraveladservices.com @cn
-full:googlevads-cn.com @cn
-full:gstatic-cn.com @cn
-full:gstaticadssl.l.google.com @cn
-full:gtm.oasisfeng.com @cn
-full:imasdk.googleapis.com @cn
-full:pagead-googlehosted.l.google.com @cn
-full:performanceparameters.googleapis.com @cn
-full:prod-controlbe.floonet.goog @cn
-full:prod-databe.floonet.goog @cn
-full:prod.databe.floonet.goog @cn
-full:qiao-cn.com @cn
-full:qpx.googleflights.net @cn
-full:redirector.bdn.dev @cn
-full:redirector.c.chat.google.com @cn
-full:redirector.c.mail.google.com @cn
-full:redirector.c.pack.google.com @cn
-full:redirector.c.youtubeeducation.com @cn
-full:redirector.gcpcdn.gvt1.com @cn
-full:redirector.gvt1.com @cn
-full:redirector.offline-maps.gvt1.com @cn
-full:redirector.snap.gvt1.com @cn
-full:redirector.xn--ngstr-lra8j.com @cn
-full:safebrowsing-cache.google.com @cn
-full:safebrowsing.googleapis.com @cn
-full:service.urchin.com @cn
-full:ssl-google-analytics.l.google.com @cn
-full:ssl.gstatic.com @cn
-full:staging-controlbe.floonet.goog @cn
-full:staging-databe.floonet.goog @cn
-full:staging.databe.floonet.goog @cn
-full:tac.googleapis.com @cn
-full:tools.google.com @cn
-full:update.googleapis.com @cn
-full:wear.googleapis.com @cn
-full:www-google-analytics.l.google.com @cn
-full:www-googletagmanager.l.google.com @cn
-full:www.destinationurl.com @cn
-full:www.gstatic.com @cn
-full:www.pxcc.com @cn
+google-ohttp-relay-safebrowsing.fastly-edge.com
+2mdn-cn.net
+2mdn.net
+admob-cn.com
+admob.com
+adsense.com
+adsensecustomsearchads.com
+adsenseformobileapps.com
+adservice.google.com
+adtrafficquality.google
+advertisercommunity.com
+advertiserscommunity.com
+adwords-community.com
+adwords.com
+adwordsexpress.com
+analytics-alv.google.com
+app-ads-services.com
+app-analytics-services.com
+app-analytics-services-att.com
+app-measurement-cn.com
+app-measurement.com
+doubleclick-cn.net
+doubleclick.cn
+doubleclick.com
+doubleclick.net
+fcmatch.google.com
+google-analytics-cn.com
+google-analytics.com
+googleadapis.com
+googleadapis.l.google.com
+googleads-cn.com
+googleads.com
+googleadservices-cn.com
+googleadservices.com
+googleadsserving.cn
+googleanalytics.com
+googleoptimize-cn.com
+googleoptimize.com
+googlesyndication-cn.com
+googlesyndication.com
+googletagmanager-cn.com
+googletagmanager.com
+googletagservices-cn.com
+googletagservices.com
+googletraveladservices-cn.com
+googletraveladservices.com
+googlevads-cn.com
+mail-ads.google.com
+mobileads.google.com
+marketingplatform.google.com
+pagead.l.google.com
+partnerad.l.google.com
+urchin.com
+analytics.google.com
+265.com
+gvt1-cn.com
+gvt2-cn.com
+recaptcha-cn.net
+recaptcha.net
+www.recaptcha-cn.net
+www.recaptcha.net
+apps5.oingo.com
+avail.googleflights.net
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+c.admob.com
+c.android.clients.google.com
+cache-management-prod.google.com
+cache.pack.google.com
+checkin.gstatic.com
+clickserve.cc-dt.com
+clickserve.dartsearch.net
+clickserver.googleads.com
+clientservices.googleapis.com
+cn.widevine.com
+connectivitycheck.gstatic.com
+csi.gstatic.com
+dartsearch-cn.net
+dg-meta.video.google.com
+dl.google.com
+dl.l.google.com
+download.mlcc.google.com
+download.tensorflow.google.com
+fontfiles.googleapis.com
+fonts.googleapis.com
+fonts.gstatic.com
+g0.gstatic.com
+g1.gstatic.com
+g2.gstatic.com
+g3.gstatic.com
+gongyichuangyi.net
+googleapis-cn.com
+googleapps-cn.com
+googleflights-cn.net
+gstatic-cn.com
+gstaticadssl.l.google.com
+gtm.oasisfeng.com
+imasdk.googleapis.com
+pagead-googlehosted.l.google.com
+performanceparameters.googleapis.com
+prod-controlbe.floonet.goog
+prod-databe.floonet.goog
+prod.databe.floonet.goog
+qiao-cn.com
+qpx.googleflights.net
+redirector.bdn.dev
+redirector.c.chat.google.com
+redirector.c.mail.google.com
+redirector.c.pack.google.com
+redirector.c.youtubeeducation.com
+redirector.gcpcdn.gvt1.com
+redirector.gvt1.com
+redirector.offline-maps.gvt1.com
+redirector.snap.gvt1.com
+redirector.xn--ngstr-lra8j.com
+safebrowsing-cache.google.com
+safebrowsing.googleapis.com
+service.urchin.com
+ssl-google-analytics.l.google.com
+ssl.gstatic.com
+staging-controlbe.floonet.goog
+staging-databe.floonet.goog
+staging.databe.floonet.goog
+tac.googleapis.com
+tools.google.com
+update.googleapis.com
+wear.googleapis.com
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
+www.destinationurl.com
+www.gstatic.com
+www.pxcc.com
 abc.xyz
 calicolabs.com
 capitalg.com

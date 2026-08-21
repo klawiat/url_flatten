@@ -30,14 +30,14 @@ yeyousg.com
 yidianliulan.cn
 yidianliulan.com
 yuweikuijianzhan.com
-inte.sogou.com @ads
-inte.sogoucdn.com @ads
-lu.sogou.com @ads
-lu.sogoucdn.com @ads
-pb.i.sogou.com @ads
-theta.sogoucdn.com @ads
-uranus.sogou.com @ads
-wuliao.epro.sogou.com @ads
+inte.sogou.com
+inte.sogoucdn.com
+lu.sogou.com
+lu.sogoucdn.com
+pb.i.sogou.com
+theta.sogoucdn.com
+uranus.sogou.com
+wuliao.epro.sogou.com
 cnb.cool
 coding.me
 coding.net
@@ -52,7 +52,7 @@ tjstats.com
 wegamedeveloper.com
 weixinbridge.com
 weui.io
-badjs.weixinbridge.com @ads
+badjs.weixinbridge.com
 battlecare.net
 gameitop.com
 gameloop.com
@@ -155,17 +155,17 @@ kugousenior.com
 kugoustore.com
 kugouvoice.com
 kugouyouth.com
-ads.service.kugou.com @ads
-adserviceretry.kglink.cn @ads
-adserviceretry.kugou.com @ads
+ads.service.kugou.com
+adserviceretry.kglink.cn
+adserviceretry.kugou.com
 koowo.cn
 koowo.com
 kuwo.cn
 ximalaya.com
 xmcdn.com
-adbehavior.ximalaya.com @ads
-adse.wsa.ximalaya.com @ads
-adse.ximalaya.com @ads
+adbehavior.ximalaya.com
+adse.wsa.ximalaya.com
+adse.ximalaya.com
 qqmusic.com
 tencentmusic.com
 kg.qq.com
@@ -177,13 +177,13 @@ wting.info
 97ting.com
 tingmall.com
 ultimatemusic.cn
-ad.tencentmusic.com @ads
-adstats.tencentmusic.com @ads
-monitor.music.qq.com @ads
-report.tencentmusic.com @ads
-stat.y.qq.com @ads
-tmead.y.qq.com @ads
-tmeadcomm.y.qq.com @ads
+ad.tencentmusic.com
+adstats.tencentmusic.com
+monitor.music.qq.com
+report.tencentmusic.com
+stat.y.qq.com
+tmead.y.qq.com
+tmeadcomm.y.qq.com
 aireads.cn
 chatdrama.cn
 chatdrama.net
@@ -230,10 +230,10 @@ qzone.com
 rtx.com.cn
 servicewechat.com
 tencent.cn
-tencent.co.id @!cn
+tencent.co.id
 tencent.com
 tencent.com.cn
-tencent.com.hk @!cn
+tencent.com.hk
 tencent.net
 tencent.net.cn
 tenpay.com
@@ -251,9 +251,9 @@ mmbizurl.cn
 url.cn
 wxaurl.cn
 wxmpurl.cn
-wetv.vip @!cn
-wetvinfo.com @!cn
-full:wetv.qq.com @!cn
+wetv.vip
+wetvinfo.com
+wetv.qq.com
 alloyteam.com
 imweb.io
 ivweb.io
@@ -289,52 +289,52 @@ tdnsdl4.cn
 tdnsdl4.com.cn
 tdnsdl5.cn
 tdnsdl5.com.cn
-ad.browser.qq.com @ads
-ad.qq.com @ads
-ad.qun.qq.com @ads
-ad.weixin.qq.com @ads
-adfilter.imtt.qq.com @ads
-adnet.qq.com @ads
-adping.qq.com @ads
-adpm.app.qq.com @ads
-adsclick.qq.com @ads
-adsfile.qq.com @ads
-adshmmsg.qq.com @ads
-adslvfile.qq.com @ads
-adslvseed.qq.com @ads
-adsmind.apdcdn.tc.qq.com @ads
-adsqqclick.qq.com @ads
-adstestview.qq.com @ads
-adsview.qq.com @ads
-adsview2.qq.com @ads
-adv.app.qq.com @ads
-adver.qq.com @ads
-beacon.cdn.qq.com @ads
-beacon.qq.com @ads
-beaconcdn.qq.com @ads
-btrace.qq.com @ads
-bugly.qq.com @ads
-e.qq.com @ads
-gdt.qq.com @ads
-hq-tracking.qq.com @ads
-htrace.wetvinfo.com @ads
-isdspeed.qq.com @ads
-log.tbs.qq.com @ads
-mdt.qq.com @ads
-monitor.uu.qq.com @ads
-mpush.qq.com @ads
-mtrace.qq.com @ads
-pgdt.gtimg.cn @ads
-pingjs.qq.com @ads
-pmir.3g.qq.com @ads
-push.qq.com @ads
-qqdata.ab.qq.com @ads
-report.qqweb.qq.com @ads
-rmonitor.qq.com @ads
-sngmta.qq.com @ads
-tajs.qq.com @ads
-tcss.qq.com @ads
-tpstelemetry.tencent.com @ads
-trace.qq.com @ads
-ugdtimg.com @ads
-wit.qq.com @ads
+ad.browser.qq.com
+ad.qq.com
+ad.qun.qq.com
+ad.weixin.qq.com
+adfilter.imtt.qq.com
+adnet.qq.com
+adping.qq.com
+adpm.app.qq.com
+adsclick.qq.com
+adsfile.qq.com
+adshmmsg.qq.com
+adslvfile.qq.com
+adslvseed.qq.com
+adsmind.apdcdn.tc.qq.com
+adsqqclick.qq.com
+adstestview.qq.com
+adsview.qq.com
+adsview2.qq.com
+adv.app.qq.com
+adver.qq.com
+beacon.cdn.qq.com
+beacon.qq.com
+beaconcdn.qq.com
+btrace.qq.com
+bugly.qq.com
+e.qq.com
+gdt.qq.com
+hq-tracking.qq.com
+htrace.wetvinfo.com
+isdspeed.qq.com
+log.tbs.qq.com
+mdt.qq.com
+monitor.uu.qq.com
+mpush.qq.com
+mtrace.qq.com
+pgdt.gtimg.cn
+pingjs.qq.com
+pmir.3g.qq.com
+push.qq.com
+qqdata.ab.qq.com
+report.qqweb.qq.com
+rmonitor.qq.com
+sngmta.qq.com
+tajs.qq.com
+tcss.qq.com
+tpstelemetry.tencent.com
+trace.qq.com
+ugdtimg.com
+wit.qq.com

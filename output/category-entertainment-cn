@@ -87,6 +87,19 @@ herogame.com
 heroesports.com
 shyxhy.com
 yingxiong.com
+kurobbs.com
+kurogame-service.com
+kurogame.com
+kurogame.net
+kurogame.xyz
+kurogames-ads.com
+kurogames.com
+kurogames.net
+aki-game.com
+aki-game.net
+aki-game2.com
+aki-game2.net
+wutheringwaves.cn
 mhystatic.com
 mhyurl.cn
 mihayo.com
@@ -102,8 +115,8 @@ bhsr.com
 themisweeps.com
 yuanshen.com
 juequling.com
-regexp:^.+-mihayo\.akamaized\.net$ @cn
-log-upload.mihoyo.com @ads
+||+-mihayo.akamaized.net
+log-upload.mihoyo.com
 seasungames.cn
 seasungames.com
 seasunwbl.com
@@ -204,6 +217,18 @@ vrzwk.cn
 vrzwk.com
 vrzwk.net
 vrzwk.top
+tapapks.com
+tapimg.com
+tapimg.net
+taptap.cn
+taptap.com
+taptap.io
+taptapdada.com
+ro.com
+xd.cn
+xd.com
+xdcdn.net
+xindong.com
 dobest.com
 langrenclub.com
 sanguosha.com
@@ -225,8 +250,8 @@ duoyi.com
 duoyigroup.cn
 duoyiwangluo.com
 ygduoyi.com
-full:end-api.shallow.ink
-full:end.shallow.ink
+end-api.shallow.ink
+end.shallow.ink
 feihuo.com
 forevernine.com
 fxt365.com
@@ -268,6 +293,53 @@ aamgame.com
 aamgame.mobi
 aamsmart.com
 singworld.net
+bilicdn1.com
+bilicdn2.com
+bilicdn3.com
+bilicdn4.com
+bilicdn5.com
+biliimg.com
+bilivideo.cn
+bilivideo.com
+bilivideo.net
+hdslb.com
+hdslb.org
+maoercdn.com
+mincdn.com
+upos-hz-mirrorakam.akamaized.net
+bilicomic.com
+bilicomics.com
+maoer.com
+missevan.com
+acg.tv
+acgvideo.com
+animetamashi.cn
+animetamashi.com
+anitama.cn
+anitama.net
+b23.tv
+bigfun.cn
+bigfunapp.cn
+bili22.cn
+bili2233.cn
+bili23.cn
+bili33.cn
+biliapi.com
+biliapi.net
+bilibili.cc
+bilibili.cn
+bilibili.com
+bilibili.net
+bilibili.tv
+bilibilipay.cn
+bilibilipay.com
+biligo.com
+biliintl.com
+dreamcast.hk
+huasheng.cn
+im9.com
+updream.cn
+yo9.com
 ciweimao.com
 hbooker.com
 kuangxiangit.com
@@ -398,31 +470,51 @@ qznovel.com
 qznovelpic.com
 qznovelstatic.com
 qznovelvod.com
-full:p3-novel.byteimg.com
-full:p6-novel.byteimg.com
-full:ads3-normal-hl.zijieapi.com @ads
-full:ads3-normal.zijieapi.com @ads
-full:ads5-normal-hl.zijieapi.com @ads
-full:ads5-normal.zijieapi.com @ads
-full:log3-applog-hl.fqnovel.com @ads
-full:log3-applog.fqnovel.com @ads
-full:log5-applog-hl.fqnovel.com @ads
-full:log5-applog.fqnovel.com @ads
-full:p3-ad-sign.byteimg.com @ads
-full:p6-ad-sign.byteimg.com @ads
-full:p9-ad-sign.byteimg.com @ads
-full:rtlog3-applog-hl.fqnovel.com @ads
-full:rtlog3-applog.fqnovel.com @ads
-full:rtlog5-applog-hl.fqnovel.com @ads
-full:rtlog5-applog.fqnovel.com @ads
+p3-novel.byteimg.com
+p6-novel.byteimg.com
+ads3-normal-hl.zijieapi.com
+ads3-normal.zijieapi.com
+ads5-normal-hl.zijieapi.com
+ads5-normal.zijieapi.com
+log3-applog-hl.fqnovel.com
+log3-applog.fqnovel.com
+log5-applog-hl.fqnovel.com
+log5-applog.fqnovel.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+rtlog3-applog-hl.fqnovel.com
+rtlog3-applog.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+rtlog5-applog.fqnovel.com
 gamersky.com
-click.gamersky.com @ads
-ja.gamersky.com @ads
-ja1.gamersky.com @ads
-ja2.gamersky.com @ads
-wmbd.gamersky.com @ads
+click.gamersky.com
+ja.gamersky.com
+ja1.gamersky.com
+ja2.gamersky.com
+wmbd.gamersky.com
 huya.com
 msstatic.com
+71.am
+iq.com
+iqiyi.com
+iqiyipic.com
+pps.tv
+ppsimg.com
+qiyi.com
+qiyipic.com
+qy.net
+71edge.com
+ad.m.iqiyi.com
+afp.iqiyi.com
+c.uaa.iqiyi.com
+cloudpush.iqiyi.com
+cupid.iqiyi.com
+ifacelog.iqiyi.com
+mbdlog.iqiyi.com
+msg.video.qiyi.com
+msg2.video.qiyi.com
+policy.video.iqiyi.com
 ku6.com
 ku6cdn.com
 ku6img.com
@@ -436,7 +528,7 @@ acfunchina.cn
 acfunchina.com
 acfunchina.net
 aixifan.com
-full:apilog-web.acfun.cn @ads
+apilog-web.acfun.cn
 eckwai.com
 ecukwai.com
 gifshow.com
@@ -462,13 +554,13 @@ viviv.com
 wskwai.com
 wsukwai.com
 yximgs.com
-adbkwai.com @ads
-adkwai.com @ads
-adukwai.com @ads
-e.kuaishou.cn @ads
-e.kuaishou.com @ads
-full:log-sdk.gifshow.com @ads
-full:wlog.kuaishou.com @ads
+adbkwai.com
+adkwai.com
+adukwai.com
+e.kuaishou.cn
+e.kuaishou.com
+log-sdk.gifshow.com
+wlog.kuaishou.com
 le.com
 leautolink.com
 lecloud.com
@@ -478,10 +570,10 @@ leso.cn
 letv.com
 letvcdn.com
 letvimg.com
-apple.www.letv.com @ads
-ark.letv.com @ads
-dc.letv.com @ads
-g3.letv.com @ads
+apple.www.letv.com
+ark.letv.com
+dc.letv.com
+g3.letv.com
 gzlzfm.com
 lizhi.fm
 lizhifm.com
@@ -602,17 +694,17 @@ kugousenior.com
 kugoustore.com
 kugouvoice.com
 kugouyouth.com
-ads.service.kugou.com @ads
-adserviceretry.kglink.cn @ads
-adserviceretry.kugou.com @ads
+ads.service.kugou.com
+adserviceretry.kglink.cn
+adserviceretry.kugou.com
 koowo.cn
 koowo.com
 kuwo.cn
 ximalaya.com
 xmcdn.com
-adbehavior.ximalaya.com @ads
-adse.wsa.ximalaya.com @ads
-adse.ximalaya.com @ads
+adbehavior.ximalaya.com
+adse.wsa.ximalaya.com
+adse.ximalaya.com
 qqmusic.com
 tencentmusic.com
 kg.qq.com
@@ -624,13 +716,13 @@ wting.info
 97ting.com
 tingmall.com
 ultimatemusic.cn
-ad.tencentmusic.com @ads
-adstats.tencentmusic.com @ads
-monitor.music.qq.com @ads
-report.tencentmusic.com @ads
-stat.y.qq.com @ads
-tmead.y.qq.com @ads
-tmeadcomm.y.qq.com @ads
+ad.tencentmusic.com
+adstats.tencentmusic.com
+monitor.music.qq.com
+report.tencentmusic.com
+stat.y.qq.com
+tmead.y.qq.com
+tmeadcomm.y.qq.com
 1xhh.cn
 accxiaoheihe.com
 chat.top
@@ -644,6 +736,58 @@ xyzfm.link
 xyzcdn.net
 xiaoyuzhoufm.com
 podcast.xyz
+9xsecndns.cn
+kumiao.com
+soku.com
+tudou.com
+ykimg.com
+youku.com
+youku.tv
+youkuhonor.com
+youkuplay.com
+ykimg.alicdn.com
+ad.api.3g.youku.com
+ad.api.mobile.youku.com
+ad.mobile.youku.com
+adashx.ut.youku.com
+atm.youku.com
+e.stat.ykimg.com
+ems.youku.com
+guanggaoad.youku.com
+h-adashx.ut.youku.com
+lstat.youku.com
+mobilemsg.youku.com
+msg.youku.com
+p-log.ykimg.com
+passport-log.youku.com
+pl.youku.com
+s-adashx.ut.youku.com
+stat.youku.com
+statis.api.3g.youku.com
+v6-adashx.ut.youku.com
+yk-ssp.ad.youku.com
+ykad-data.youku.com
+aireads.cn
+chatdrama.cn
+chatdrama.net
+chatqidian.cn
+chatqidian.net
+chattext.cn
+chatwrite.net
+chatxiaoxiang.com
+chatyuewen.cn
+dishu3.com
+hongxiu.com
+qdmm.com
+qidian.com
+readnovel.com
+rongshuxia.com
+tingbook.com
+xs.cn
+xs8.cn
+xxsy.net
+xxsypro.com
+yuewen.com
 duowan.com
 dwstatic.com
 yy.com
@@ -671,12 +815,12 @@ hunaniptv.com
 hunantv.com
 imgo.tv
 mgtv.com
-click.hunantv.com @ads
-da.hunantv.com @ads
-da.mgtv.com @ads
-log.hunantv.com @ads
-log.v2.hunantv.com @ads
-res.hunantv.com @ads
+click.hunantv.com
+da.hunantv.com
+da.mgtv.com
+log.hunantv.com
+log.v2.hunantv.com
+res.hunantv.com
 aichongzoo.cn
 hzdtv.tv
 hzman.net

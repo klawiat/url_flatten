@@ -17,12 +17,12 @@ nowe.hk
 now-tv.com
 now-ashare.com
 viu.tv
-full:api.viu.now.com
-regexp:^ewcdn[0-9]+\.nowe\.com$
+api.viu.now.com
+||*ewcdn[0-9]+.nowe.com*
 viu.com
-full:dfp6rglgjqszk.cloudfront.net
-full:d1k2us671qcoau.cloudfront.net
-full:d2anahhhmp1ffz.cloudfront.net
+dfp6rglgjqszk.cloudfront.net
+d1k2us671qcoau.cloudfront.net
+d2anahhhmp1ffz.cloudfront.net
 pccw.com
 pccwglobal.com
 pccwsolutions.com

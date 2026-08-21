@@ -3,14 +3,14 @@ actalis.it
 amazontrust.com
 awstrust.com
 ss2.us
-full:certs-lb.apple.com.akadns.net @cn
-full:certs.apple.com @cn
-full:crl-lb.apple.com.akadns.net @cn
-full:crl.apple.com @cn
-full:ocsp.apple.com @cn
-full:ocsp2.apple.com @cn
-full:valid.apple.com @cn
-full:valid.origin-apple.com.akadns.net @cn
+certs-lb.apple.com.akadns.net
+certs.apple.com
+crl-lb.apple.com.akadns.net
+crl.apple.com
+ocsp.apple.com
+ocsp2.apple.com
+valid.apple.com
+valid.origin-apple.com.akadns.net
 buypass-ssl.com
 buypass.com
 buypass.no
@@ -21,10 +21,10 @@ certinomis.fr
 certum.pl
 ocsp-certum.com
 ocsp-responder.com # Yandex
-dcocsp.cn @cn
+dcocsp.cn
 digicert-cn.com # Not in Chinese Mainland
 digicert-validation.com
-digicert.cn @cn
+digicert.cn
 digicert.co.jp
 digicert.com
 digicert.eu
@@ -99,22 +99,22 @@ entrust.cn
 entrust.com
 entrust.net
 entrustdatacard.com
-full:www.entrust.cn @cn
+www.entrust.cn
 affirmtrust.com
 atos.net
 myatos.net
 certificat2.com
 trendmicro.com
 gandi.net
-alphassl.com @cn
-easy-signing.com @cn
+alphassl.com
+easy-signing.com
 globalsign-media.com
 globalsign.be
 globalsign.ch
 globalsign.cloud
-globalsign.cn @cn
+globalsign.cn
 globalsign.co.uk
-globalsign.com @cn
+globalsign.com
 globalsign.com.au
 globalsign.com.br
 globalsign.com.hk
@@ -124,26 +124,26 @@ globalsign.eu
 globalsign.fr
 globalsign.net
 globalsign.nl
-globalsigncdn.com @cn
-full:cdn.globalsigncdn.com.cdn.cloudflare.net @cn
-full:crl.globalsign.net @cn
+globalsigncdn.com
+cdn.globalsigncdn.com.cdn.cloudflare.net
+crl.globalsign.net
 godaddy
 godaddy.com
 godaddy.net
 wsimg.com
 x.co # GoDaddy URL Shortener
 pki.goog
-full:pki-goog.l.google.com @cn
-full:c.pki.goog @cn
-full:i.pki.goog @cn
-full:o.pki.goog @cn
-full:publicca.googleapis.com
-full:preprod-publicca.googleapis.com
-full:clients1.google.com
-full:pki.google.com
-full:crl.pki.goog @cn
-full:crls.pki.goog @cn
-full:ocsp.pki.goog @cn
+pki-goog.l.google.com
+c.pki.goog
+i.pki.goog
+o.pki.goog
+publicca.googleapis.com
+preprod-publicca.googleapis.com
+clients1.google.com
+pki.google.com
+crl.pki.goog
+crls.pki.goog
+ocsp.pki.goog
 eca.hinet.net
 gtlsca.nat.gov.tw
 pki.hinet.net
@@ -158,25 +158,25 @@ lencr.org
 letsencrypt.com
 letsencrypt.org
 msocsp.com
-full:crl.microsoft.com
-full:mscrl.microsoft.com
-full:ocsp.microsoft.com
-full:oneocsp.microsoft.com
-full:www.microsoft.com
+crl.microsoft.com
+mscrl.microsoft.com
+ocsp.microsoft.com
+oneocsp.microsoft.com
+www.microsoft.com
 secom.co.jp
 secomtrust.net
 managedpki.ne.jp
 enterprisessl.com
 hackerguardian.com
 instantssl.com
-oemssl.cn @cn
-oemssl.cn.cdn.cloudflare.net @cn
+oemssl.cn
+oemssl.cn.cdn.cloudflare.net
 optimumssl.com
 positivessl.com
 sectigo.com
-sectigochina.com @cn
-sectigochina.com.cdn.cloudflare.net @cn
-trust-provider.cn @cn
+sectigochina.com
+sectigochina.com.cdn.cloudflare.net
+trust-provider.cn
 trust-provider.com
 usertrust.com
 aoc.cat
@@ -188,7 +188,7 @@ comodoca2.com
 comodoca3.com
 comodoca4.com
 ssl.com
-sslcom.cn @cn
+sslcom.cn
 starfieldtech.com
 digital-id.ch
 digitalid.ch

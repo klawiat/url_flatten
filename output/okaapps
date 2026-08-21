@@ -1,2 +1,2 @@
-domain:okaapps.com
-regexp:^(.+\.)*zh\.okaapps\.com$ @cn
+okaapps.com
+||*(.+.)*zh.okaapps.com*

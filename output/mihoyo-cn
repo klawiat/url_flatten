@@ -13,5 +13,5 @@ bhsr.com
 themisweeps.com
 yuanshen.com
 juequling.com
-regexp:^.+-mihayo\.akamaized\.net$ @cn
-log-upload.mihoyo.com @ads
+||+-mihayo.akamaized.net
+log-upload.mihoyo.com

@@ -1,27 +1,27 @@
-captive.apple.com @cn # Apple captive portal default direct
-full:ping.archlinux.org
-full:redirect.archlinux.org # Canonical Name of ping.archlinux.org
+captive.apple.com
+ping.archlinux.org
+redirect.archlinux.org # Canonical Name of ping.archlinux.org
 cp.cloudflare.com
 network-test.debian.org
 detectportal.firefox.com
-full:nmcheck.gnome.org
-full:connectivitycheck.gstatic.com
-full:www.gstatic.com @cn
-full:connectivitycheck.platform.hihonorcloud.com @cn
-full:connectivitycheck.platform.hicloud.com @cn
-full:networkcheck.kde.org
+nmcheck.gnome.org
+connectivitycheck.gstatic.com
+www.gstatic.com
+connectivitycheck.platform.hihonorcloud.com
+connectivitycheck.platform.hicloud.com
+networkcheck.kde.org
 kuketz.de
-full:edge-http.microsoft.com
-full:connect.rom.miui.com @cn
-full:conn1.oppomobile.com @cn
-full:conn2.oppomobile.com @cn
-full:www.qualcomm.cn @cn
-full:www.qualcomm.com
-full:connectivity.samsung.com.cn @cn
+edge-http.microsoft.com
+connect.rom.miui.com
+conn1.oppomobile.com
+conn2.oppomobile.com
+www.qualcomm.cn
+www.qualcomm.com
+connectivity.samsung.com.cn
 ipv6check-http.steamserver.net
 ipv6check-udp.steamserver.net
 test.steampowered.com
-full:connectivity-check.ubuntu.com
-full:wifi.vivo.com.cn @cn
+connectivity-check.ubuntu.com
+wifi.vivo.com.cn
 msftconnecttest.com
 msftncsi.com

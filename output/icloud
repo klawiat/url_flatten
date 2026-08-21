@@ -1,18 +1,18 @@
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
-apple-icloud.cn @cn
-appleicloud.cn @cn
+apple-icloud.cn
+appleicloud.cn
 applemx-icloud.com
-icloud-apple.cn @cn
+icloud-apple.cn
 icloud-content.com
-icloud-content.com.cn @cn
+icloud-content.com.cn
 icloud-isupport.com
 icloud-sandbox.com
 icloud.ch
-icloud.cn @cn
+icloud.cn
 icloud.com
-icloud.com.cn @cn
+icloud.com.cn
 icloud.de
 icloud.ee
 icloud.fi
@@ -22,7 +22,7 @@ icloud.ie
 icloud.is
 icloud.jp
 icloud.lv
-icloud.net.cn @cn
+icloud.net.cn
 icloud.om
 icloud.org
 icloud.pt
@@ -32,7 +32,7 @@ icloud.si
 icloud.sk
 icloud.vn
 icloudads.net
-icloudapple.cn @cn
+icloudapple.cn
 icloudbox.net
 icloudbrowser.net
 icloude.com
@@ -53,4 +53,4 @@ me.com
 myicloud.net
 mylcloud.net
 wwwicloud.com
-full:www-cdn.icloud.com.akadns.net
+www-cdn.icloud.com.akadns.net

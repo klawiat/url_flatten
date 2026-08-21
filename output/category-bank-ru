@@ -56,15 +56,15 @@ sber.ru
 sberbank.com
 sberbank.ru
 sbrf.ru
-ads.sber.ru @ads
-clickstream.sberbank.ru @ads
-neon.click @ads
-sbermarketing.ru @ads
-full:error-tracking.megamarket.tech @ads
-full:metrics.21-school.ru @ads
-full:sentry.sberauto.com @ads
-full:tracing-http.megamarket.tech @ads
-full:visor.sberbank.ru @ads
+ads.sber.ru
+clickstream.sberbank.ru
+neon.click
+sbermarketing.ru
+error-tracking.megamarket.tech
+metrics.21-school.ru
+sentry.sberauto.com
+tracing-http.megamarket.tech
+visor.sberbank.ru
 id.ru
 megamarket.ru
 megamarket.tech
@@ -117,7 +117,7 @@ payecom.ru
 platiecom.ru
 otello.ru
 sber.pro
-full:sberpro.vedomosti.ru
+sberpro.vedomosti.ru
 cplsb.ru
 sberspasibo.ru
 spasibo.digital
@@ -241,8 +241,8 @@ centraluniversity.ru
 cu.ru
 prodcontest.com
 tinkoff-edu.ru
-full:edu.tinkoff.ru
-full:education.tbank.ru
+edu.tinkoff.ru
+education.tbank.ru
 tochka-tech.com
 tochka.com
 pochtabank.ru #subsidiary

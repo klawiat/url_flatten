@@ -5,7 +5,7 @@
 dronedj.com
 electrek.co
 spaceexplored.com
-thetype.cloud @cn
+thetype.cloud
 thetype.com
 typeisbeautiful.com
 startupschool.org
@@ -94,7 +94,7 @@ asahi.com
 asahicom.jp
 asakonet.co.jp
 nikkansports.com
-full:asahishimbun.sc.omtrdc.net
+asahishimbun.sc.omtrdc.net
 bbc
 bbc-reporting-api.app
 bbc.co.uk
@@ -108,21 +108,21 @@ bbcmedia.co.uk
 bbcpersian.com
 bbcverticals.com
 bidi.net.uk
-full:aod-pod-uk-live.akamaized.net
-full:as-dash-uk-live.akamaized.net
-full:as-hls-uk-live.akamaized.net
-full:ve-dash-uk-live.akamaized.net
-full:ve-uhd-push-uk-live.akamaized.net
-full:vod-dash-uk-live.akamaized.net
-full:vod-dash-ww-live.akamaized.net
-full:vod-hls-uk-live.akamaized.net
-full:vod-sub-uk-live.akamaized.net
-full:vod-thumb-uk-live.akamaized.net
-full:vod-thumb-ww-live.akamaized.net
-full:vs-cmaf-push-uk-live.akamaized.net
-full:vs-cmaf-pushb-ww-live.akamaized.net
-full:vs-hls-push-uk-live.akamaized.net
-full:vs-hls-pushb-uk-live.akamaized.net
+aod-pod-uk-live.akamaized.net
+as-dash-uk-live.akamaized.net
+as-hls-uk-live.akamaized.net
+ve-dash-uk-live.akamaized.net
+ve-uhd-push-uk-live.akamaized.net
+vod-dash-uk-live.akamaized.net
+vod-dash-ww-live.akamaized.net
+vod-hls-uk-live.akamaized.net
+vod-sub-uk-live.akamaized.net
+vod-thumb-uk-live.akamaized.net
+vod-thumb-ww-live.akamaized.net
+vs-cmaf-push-uk-live.akamaized.net
+vs-cmaf-pushb-ww-live.akamaized.net
+vs-hls-push-uk-live.akamaized.net
+vs-hls-pushb-uk-live.akamaized.net
 bloomberg
 bbgevent.com
 bbhub.io
@@ -213,10 +213,10 @@ cbsaavideo.com
 mtvnservices.com
 paramountplus.com
 pplusstatic.com
-full:cbsi.live.ott.irdeto.com
-full:cbsplaylistserver.aws.syncbak.com
-full:cbsservice.aws.syncbak.com
-full:link.theplatform.com
+cbsi.live.ott.irdeto.com
+cbsplaylistserver.aws.syncbak.com
+cbsservice.aws.syncbak.com
+link.theplatform.com
 cnbc.com
 cnbcfm.com
 nbcuni.com
@@ -251,7 +251,7 @@ mol.im
 thisismoney.co.uk
 thismon.ee
 dw.com
-full:deutschewelle.h-cdn.com
+deutschewelle.h-cdn.com
 economist.com
 economistgroup.com
 economistgroupcareers.com
@@ -633,7 +633,7 @@ whosthehost.com
 wofl.tv
 woflthenewsstation.com
 wogx.com
-full:foxnewsplayer-a.akamaihd.net
+foxnewsplayer-a.akamaihd.net
 agendaweek.com
 excedo.com
 exec-appointments.com
@@ -726,13 +726,13 @@ rexcha.com
 rolfoundation.org
 rolsociety.org
 yiqiedoushiganggangkaishi.org
-full:himalaya-exchange.zendesk.com
+himalaya-exchange.zendesk.com
 apexprint.com.hk
 eprc.com.hk
 etbc.com.hk
-etnet.com.cn @cn
+etnet.com.cn
 etnet.com.hk
-etnetchina.com.cn @cn
+etnetchina.com.cn
 etpress.com.hk
 ettrade.com.hk
 etwealth.com
@@ -1296,7 +1296,7 @@ skysports.fr
 skysports.ie
 skysportsonline.com
 skysportsracing.com
-cn-cdn1.skymansion.net @cn
+cn-cdn1.skymansion.net
 dev-guardianapis.com
 dev-theguardian.com
 gu-web.net
@@ -1351,7 +1351,7 @@ tvb.com
 tvb.com.au
 tvbanywhere.com
 tvbanywhere.com.sg
-tvbc.com.cn @cn
+tvbc.com.cn
 tvbeventpower.com.hk
 tvbusa.com
 tvbweekly.com
@@ -1476,7 +1476,7 @@ zee.com
 zeebiz.com
 zeeentertainment.com
 zeenews.com
-full:zeenews-fonts.s3.amazonaws.com
+zeenews-fonts.s3.amazonaws.com
 881903.com
 am730.com.hk
 americasvoice.news

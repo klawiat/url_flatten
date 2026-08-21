@@ -87,6 +87,19 @@ herogame.com
 heroesports.com
 shyxhy.com
 yingxiong.com
+kurobbs.com
+kurogame-service.com
+kurogame.com
+kurogame.net
+kurogame.xyz
+kurogames-ads.com
+kurogames.com
+kurogames.net
+aki-game.com
+aki-game.net
+aki-game2.com
+aki-game2.net
+wutheringwaves.cn
 mhystatic.com
 mhyurl.cn
 mihayo.com
@@ -102,8 +115,8 @@ bhsr.com
 themisweeps.com
 yuanshen.com
 juequling.com
-regexp:^.+-mihayo\.akamaized\.net$ @cn
-log-upload.mihoyo.com @ads
+||+-mihayo.akamaized.net
+log-upload.mihoyo.com
 seasungames.cn
 seasungames.com
 seasunwbl.com
@@ -204,6 +217,18 @@ vrzwk.cn
 vrzwk.com
 vrzwk.net
 vrzwk.top
+tapapks.com
+tapimg.com
+tapimg.net
+taptap.cn
+taptap.com
+taptap.io
+taptapdada.com
+ro.com
+xd.cn
+xd.com
+xdcdn.net
+xindong.com
 dobest.com
 langrenclub.com
 sanguosha.com
@@ -225,8 +250,8 @@ duoyi.com
 duoyigroup.cn
 duoyiwangluo.com
 ygduoyi.com
-full:end-api.shallow.ink
-full:end.shallow.ink
+end-api.shallow.ink
+end.shallow.ink
 feihuo.com
 forevernine.com
 fxt365.com

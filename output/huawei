@@ -33,8 +33,8 @@ hc-sre.com
 huaweiapaas.cn
 huaweicloud-dns.cn
 huaweicloud-dns.com
-huaweicloud-dns.net @!cn
-huaweicloud-dns.org @!cn
+huaweicloud-dns.net
+huaweicloud-dns.org
 huaweicloud-idme.cn
 huaweicloud-idme.com
 huaweicloud-koophone.cn
@@ -116,48 +116,48 @@ myhwclouds.net
 pagescube.cn
 pagescube.com
 powerapp.io
-ae-ad-1.myhuaweicloud.com @!cn              #中东-阿布扎比-OP5
-af-east-201.myhuaweicloud.com @!cn          #非洲-内罗毕二零一
-af-north-1.myhuaweicloud.com @!cn           #非洲-开罗
-af-south-1.myhuaweicloud.com @!cn           #非洲-约翰内斯堡
-af-west-202.myhuaweicloud.com @!cn          #非洲-拉各斯二零一
-ap-northeast-201.myhuaweicloud.com @!cn     #亚太-东京二零一
-ap-southeast-1.myhuaweicloud.com @!cn       #中国-香港
-ap-southeast-2.myhuaweicloud.com @!cn       #亚太-曼谷
-ap-southeast-201.myhuaweicloud.com @!cn     #亚太-雅加达二零一
-ap-southeast-202.myhuaweicloud.com @!cn     #亚太-马尼拉二零一
-ap-southeast-203.myhuaweicloud.com @!cn     #亚太-吉隆坡二零一
-ap-southeast-3.myhuaweicloud.com @!cn       #亚太-新加坡
-ap-southeast-4.myhuaweicloud.com @!cn       #亚太-雅加达
-ap-southeast-5.myhuaweicloud.com @!cn       #亚太-马尼拉
-as-south-0.myhuaweicloud.com @!cn           #亚太-新加坡-OP1
-as-south-201.myhuaweicloud.com @!cn         #亚洲-班加罗尔二零一
-as-south-205.myhuaweicloud.com @!cn         #亚洲-伊斯兰堡二零一
-as-south-207.myhuaweicloud.com @!cn         #亚洲-德里二零一
-ca-east-201.myhuaweicloud.com @!cn          #加拿大-多伦多二零一
-eu-central-201.myhuaweicloud.com @!cn       #欧洲-法兰克福二零一
-eu-central-202.myhuaweicloud.com @!cn       #欧洲-华沙二零一
-eu-north-201.myhuaweicloud.com @!cn         #欧洲-斯德哥尔摩二零一
-eu-west-0.myhuaweicloud.com @!cn            #欧洲-巴黎
-eu-west-1.myhuaweicloud.com @!cn            #欧洲-阿姆斯特丹-OP1
-eu-west-101.myhuaweicloud.com @!cn          #欧洲-都柏林
-eu-west-201.myhuaweicloud.com @!cn          #欧洲-纽波特二零一
-la-north-2.myhuaweicloud.com @!cn           #拉美-墨西哥城二
-la-north-205.myhuaweicloud.com @!cn         #拉美-巴拿马城二零一
-la-south-2.myhuaweicloud.com @!cn           #拉美-圣地亚哥
-me-east-1.myhuaweicloud.com @!cn            #中东-利雅得
-me-east-205.myhuaweicloud.com @!cn          #中东-迪拜二零一
-me-east-208.myhuaweicloud.com @!cn          #中东-伊斯坦布尔二零一
-me-east-209.myhuaweicloud.com @!cn          #中东-利雅得二零一
-my-kualalumpur-1.myhuaweicloud.com @!cn     #亚太-吉隆坡-OP6
-na-east-0.myhuaweicloud.com @!cn            #北美-亚特兰大
-na-mexico-1.myhuaweicloud.com @!cn          #拉美-墨西哥城一
-ru-moscow-1.myhuaweicloud.com @!cn          #俄罗斯-莫斯科-OP4
-ru-northwest-2.myhuaweicloud.com @!cn       #俄罗斯-莫斯科二
-ru-northwest-201.myhuaweicloud.com @!cn     #俄罗斯-莫斯科二零一
-sa-brazil-1.myhuaweicloud.com @!cn          #拉美-圣保罗一
-tr-west-1.myhuaweicloud.com @!cn            #土耳其-伊斯坦布尔
-us-east-1.myhuaweicloud.com @!cn            #北美-亚特兰大-废弃
+ae-ad-1.myhuaweicloud.com
+af-east-201.myhuaweicloud.com
+af-north-1.myhuaweicloud.com
+af-south-1.myhuaweicloud.com
+af-west-202.myhuaweicloud.com
+ap-northeast-201.myhuaweicloud.com
+ap-southeast-1.myhuaweicloud.com
+ap-southeast-2.myhuaweicloud.com
+ap-southeast-201.myhuaweicloud.com
+ap-southeast-202.myhuaweicloud.com
+ap-southeast-203.myhuaweicloud.com
+ap-southeast-3.myhuaweicloud.com
+ap-southeast-4.myhuaweicloud.com
+ap-southeast-5.myhuaweicloud.com
+as-south-0.myhuaweicloud.com
+as-south-201.myhuaweicloud.com
+as-south-205.myhuaweicloud.com
+as-south-207.myhuaweicloud.com
+ca-east-201.myhuaweicloud.com
+eu-central-201.myhuaweicloud.com
+eu-central-202.myhuaweicloud.com
+eu-north-201.myhuaweicloud.com
+eu-west-0.myhuaweicloud.com
+eu-west-1.myhuaweicloud.com
+eu-west-101.myhuaweicloud.com
+eu-west-201.myhuaweicloud.com
+la-north-2.myhuaweicloud.com
+la-north-205.myhuaweicloud.com
+la-south-2.myhuaweicloud.com
+me-east-1.myhuaweicloud.com
+me-east-205.myhuaweicloud.com
+me-east-208.myhuaweicloud.com
+me-east-209.myhuaweicloud.com
+my-kualalumpur-1.myhuaweicloud.com
+na-east-0.myhuaweicloud.com
+na-mexico-1.myhuaweicloud.com
+ru-moscow-1.myhuaweicloud.com
+ru-northwest-2.myhuaweicloud.com
+ru-northwest-201.myhuaweicloud.com
+sa-brazil-1.myhuaweicloud.com
+tr-west-1.myhuaweicloud.com
+us-east-1.myhuaweicloud.com
 cdnhwchcg02.com
 cdnhwcurq03.com
 cdnhwczba04.com
@@ -319,7 +319,7 @@ dbankcdn.cn
 dbankcdn.com
 dbankcloud.cn
 dbankcloud.com
-dbankcloud.ru @!cn
+dbankcloud.ru
 dbankedge.cn
 dbankedge.net
 hicloud.com
@@ -342,4 +342,4 @@ petalmaps.com
 shanhaitujian.com
 vmall.com
 vmallres.com
-domain:dt.dbankcloud.ru @ads
+dt.dbankcloud.ru

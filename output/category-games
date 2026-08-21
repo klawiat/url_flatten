@@ -87,6 +87,19 @@ herogame.com
 heroesports.com
 shyxhy.com
 yingxiong.com
+kurobbs.com
+kurogame-service.com
+kurogame.com
+kurogame.net
+kurogame.xyz
+kurogames-ads.com
+kurogames.com
+kurogames.net
+aki-game.com
+aki-game.net
+aki-game2.com
+aki-game2.net
+wutheringwaves.cn
 mhystatic.com
 mhyurl.cn
 mihayo.com
@@ -102,8 +115,8 @@ bhsr.com
 themisweeps.com
 yuanshen.com
 juequling.com
-regexp:^.+-mihayo\.akamaized\.net$ @cn
-log-upload.mihoyo.com @ads
+||+-mihayo.akamaized.net
+log-upload.mihoyo.com
 seasungames.cn
 seasungames.com
 seasunwbl.com
@@ -204,6 +217,18 @@ vrzwk.cn
 vrzwk.com
 vrzwk.net
 vrzwk.top
+tapapks.com
+tapimg.com
+tapimg.net
+taptap.cn
+taptap.com
+taptap.io
+taptapdada.com
+ro.com
+xd.cn
+xd.com
+xdcdn.net
+xindong.com
 dobest.com
 langrenclub.com
 sanguosha.com
@@ -225,8 +250,8 @@ duoyi.com
 duoyigroup.cn
 duoyiwangluo.com
 ygduoyi.com
-full:end-api.shallow.ink
-full:end.shallow.ink
+end-api.shallow.ink
+end.shallow.ink
 feihuo.com
 forevernine.com
 fxt365.com
@@ -288,12 +313,12 @@ blizzard.com
 blizzardgearstore.com
 blz-contentstack.com
 battle.net
-full:blizzard.nefficient.co.kr
-full:blzddist1-a.akamaihd.net
-full:blzddistkr1-a.akamaihd.net
-full:bnetcmsus-a.akamaihd.net
-full:bnetproduct-a.akamaihd.net
-full:bnetshopus.akamaized.net
+blizzard.nefficient.co.kr
+blzddist1-a.akamaihd.net
+blzddistkr1-a.akamaihd.net
+bnetcmsus-a.akamaihd.net
+bnetproduct-a.akamaihd.net
+bnetshopus.akamaized.net
 diablo.com
 diablo3.com
 diablo4.com
@@ -306,9 +331,9 @@ starcraft.com
 starcraft2.com
 playwarcraft3.com
 worldofwarcraft.com
-full:blizzcon-a.akamaihd.net
-full:blzmedia-a.akamaihd.net
-full:blznav.akamaized.net
+blizzcon-a.akamaihd.net
+blzmedia-a.akamaihd.net
+blznav.akamaized.net
 candycrush.com
 king.com
 activisionblizzard.com
@@ -317,7 +342,7 @@ benefitsforeveryworld.com
 europeanwarzoneseries.com
 bluearchive.jp
 bluearchive.nexon.com
-bluearchive-cn.com @cn
+bluearchive-cn.com
 arma3.com
 armaplatform.com
 bistudio.com
@@ -339,10 +364,10 @@ eastore.com
 lordofultima.com
 origin.com
 origin.tv
-full:cloudsync-prod.s3.amazonaws.com
-full:origin-a.akamaihd.net
-full:rtm.tnt-ea.com
-full:ssl-lvlt.cdn.ea.com
+cloudsync-prod.s3.amazonaws.com
+origin-a.akamaihd.net
+rtm.tnt-ea.com
+ssl-lvlt.cdn.ea.com
 awayoutgame.com
 battlefieldbadcompany2.com
 battlefront2.com
@@ -497,8 +522,8 @@ ultimaonline.com
 uo.com
 uoherald.com
 xdsummit.com
-full:ea.tt.omtrdc.net
-full:eaassets-a.akamaihd.net
+ea.tt.omtrdc.net
+eaassets-a.akamaihd.net
 arcraiders.com
 embark-studios.com
 embark.games
@@ -533,9 +558,9 @@ unrealengine.com
 unrealtournament.com
 egdownload.fastly-edge.com
 fortnite-vod.akamaized.net
-regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @cn
-regexp:^epicgames-download\d\.akamaized\.net$
-regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$ @cn
+||*cdnd-epicgames-d+.file.myqcloud.com*
+||*epicgames-downloadd.akamaized.net*
+||*epicgames-downloadd-d+.file.myqcloud.com*
 tarkov.com
 eft-store.com
 escapefromtarkov.com
@@ -557,10 +582,10 @@ wtmobile.com
 gamesplanet.com
 gametap.com
 gpstatic.com
-full:avatargarenanow-a.akamaihd.net
-full:cdngarenanow-a.akamaihd.net
-full:dlgarenanow-a.akamaihd.net
-full:dlmobilegarena-a.akamaihd.net
+avatargarenanow-a.akamaihd.net
+cdngarenanow-a.akamaihd.net
+dlgarenanow-a.akamaihd.net
+dlmobilegarena-a.akamaihd.net
 garena.co.id
 garena.co.th
 garena.com
@@ -577,10 +602,10 @@ gog.com
 gog-services.com
 gog-statics.com
 gogalaxy.com
-full:gog.qtlglb.com @cn
-full:gog-cdn-lumen.secure2.footprint.net
-full:gog-cdn.akamaized.net
-insights-collector.gog.com @ads
+gog.qtlglb.com
+gog-cdn-lumen.secure2.footprint.net
+gog-cdn.akamaized.net
+insights-collector.gog.com
 genshinimpact.com
 honkaiimpact3.com
 honkaistarrail.com
@@ -589,9 +614,9 @@ hoyolab.com
 hoyoverse.com
 n0vadesktop.com
 zenlesszonezero.com
-log-upload-os.hoyoverse.com @ads
+log-upload-os.hoyoverse.com
 humblebundle.com
-full:hb.imgix.net
+hb.imgix.net
 itch.io
 itch.zone
 573.jp
@@ -637,10 +662,10 @@ gloryofheracles.com
 hackyourconsole.com
 kirbysuperstarultra.com
 kirbysepicyarn.com
-legendofzelda.cn @cn
-legendofzelda.com.cn @cn
+legendofzelda.cn
+legendofzelda.com.cn
 miitomo.com
-miitomo.com.cn @cn
+miitomo.com.cn
 miiverse.com
 nentindo.net
 nintendo-europe-sales.com
@@ -672,19 +697,19 @@ nintendo.tw
 nintendo3ds.com
 nintendodsi.com
 nintendoeurope.com
-nintendolabo.cn @cn
+nintendolabo.cn
 nintendonetwork.net
 nintendonyc.com
 nintendostore.com
-nintendoswitch.cn @cn
+nintendoswitch.cn
 nintendoswitch.com
-nintendoswitch.com.cn @cn
+nintendoswitch.com.cn
 nintendoswitch.net
 nintendoswitchtogether.com
 personaltrainermath.com
 playnintendo.com
-supersmashbros.cn @cn
-supersmashbros.com.cn @cn
+supersmashbros.cn
+supersmashbros.com.cn
 thelegendarystarfy.com
 thewonderful101.com
 wariolandshakeit.com
@@ -722,22 +747,22 @@ pokemonswordshield.com
 pokemonultrasunmoon.com
 pokemonvgc.com
 pokemonwifi.net
-xn--mts47c3w9b1qr.cn @cn # 神奇宝贝.cn
+xn--mts47c3w9b1qr.cn
 xn--mts47c3w9b1qr.net # 神奇宝贝.net
 splatoon2tournament.com
 starfox.com
 drmario-world.com
 marioandluigidreamteam.com
 mariobroswii.com
-mariokart.cn @cn
-mariokart.com.cn @cn
+mariokart.cn
+mariokart.com.cn
 mariokart7.com
 mariokart8.com
 mariosupersluggers.com
 newsupermariobrosu.com
 supermario.com
 supermario3dworld.com
-supermariobros.com.cn @cn
+supermariobros.com.cn
 supermariogalaxy.com
 supermariorun.com
 superpapermario.com
@@ -752,16 +777,16 @@ wiiugamepad.com
 wiivc.net
 xenoblade.com
 op.gg
-full:opgg-static.akamaized.net
-full:a.ppy.sh
-full:assets.ppy.sh
-full:c.ppy.sh
-full:osu.ppy.sh
-full:m1.ppy.sh
-full:lazer.ppy.sh
-full:notify.ppy.sh
-full:sentry.ppy.sh
-full:spectator.ppy.sh
+opgg-static.akamaized.net
+a.ppy.sh
+assets.ppy.sh
+c.ppy.sh
+osu.ppy.sh
+m1.ppy.sh
+lazer.ppy.sh
+notify.ppy.sh
+sentry.ppy.sh
+spectator.ppy.sh
 joyjoy.net
 pandanet-igs.com
 pinkcore.com
@@ -775,11 +800,11 @@ pjsekai.sega.jp
 kraftonde.com
 playbattlegrounds.com
 pubg.com
-full:pubg1.battleye.com
+pubg1.battleye.com
 priconne-redive.jp
 api-priconne-redive.cygames.jp
 omotenashi.cygames.jp
-full:prd-priconne-redive.akamaized.net
+prd-priconne-redive.akamaized.net
 historyofdota.com
 historyofdota.net
 historyofdota.org
@@ -805,7 +830,7 @@ championshipseriesleague.com
 lcsmerch.com
 leaguehighschool.com
 leagueoflegends.ca
-leagueoflegends.cn @cn
+leagueoflegends.cn
 leagueoflegends.co.kr
 leagueoflegends.com
 leagueoflegends.info
@@ -825,11 +850,11 @@ lolpcs.com
 lolshop.co.kr
 lolstatic.com
 lolusercontent.com
-lpl.com.cn @cn
+lpl.com.cn
 pvp.net
 pvp.tv
 ulol.com
-full:lolstatic-a.akamaihd.net
+lolstatic-a.akamaihd.net
 playvalorant.com
 riotforgegames.com
 ruinedking.com
@@ -878,10 +903,10 @@ roblox.vn
 robloxlabs.com
 rowblocks.com
 rowblox.com
-full:d1unuk07s6td74.cloudfront.net
-full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
-full:roblox-poc.global.ssl.fastly.net
-full:robloxcorp.s.llnwi.net
+d1unuk07s6td74.cloudfront.net
+roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+roblox-poc.global.ssl.fastly.net
+robloxcorp.s.llnwi.net
 snk-corp.co.jp
 snk-corp.info
 snkplaymore.info
@@ -904,47 +929,47 @@ valve.net
 valvesoftware.com
 dota2.com
 edge.steam-dns.top.comcast.net
-full:steamcommunity-a.akamaihd.net.edgesuite.net
+steamcommunity-a.akamaihd.net.edgesuite.net
 steam.apac.qtlglb.com
 steam.eca.qtlglb.com
 steam.naeu.qtlglb.com
 steam.ru.qtlglb.com
-full:a4e8s8k3.map2.ssl.hwcdn.net
-full:f3b7q2p3.ssl.hwcdn.net
+a4e8s8k3.map2.ssl.hwcdn.net
+f3b7q2p3.ssl.hwcdn.net
 steam.cdn.on.net
 steam.cdn.orcon.net.nz
 steam.cdn.slingshot.co.nz
 steam.cdn.webra.ru
-full:steambroadcast.akamaized.net
-full:steamcdn-a.akamaihd.net
-full:steamcommunity-a.akamaihd.net
-full:steammobile.akamaized.net
-full:steampipe-kr.akamaized.net
-full:steampipe-partner.akamaized.net
-full:steampipe.akamaized.net
-full:steamstore-a.akamaihd.net
-full:steamusercontent-a.akamaihd.net
-full:steamuserimages-a.akamaihd.net
-full:steamvideo-a.akamaihd.net
-full:steamcloudsweden.blob.core.windows.net
-full:steamugcquincy.blob.core.windows.net
-csgo.com.cn @cn
-csgo.wmsj.cn @cn
-dota2.com.cn @cn
-dota2.wmsj.cn @cn
-wmsjsteam.com @cn
-client-update.queniuqe.com @cn
-dl.steam.clngaa.com @cn
-st.dl.bscstorage.net @cn
-st.dl.eccdnx.com @cn
-st.dl.pinyuncloud.com @cn
-steampowered.com.8686c.com @cn
-steamstatic.com.8686c.com @cn
-full:alibaba.cdn.steampipe.steamcontent.com @cn
-full:lv.queniujq.cn @cn
-full:xz.pphimalayanrt.com @cn
-steamchina.com @cn
-gstore.val.manlaxy.com @cn
+steambroadcast.akamaized.net
+steamcdn-a.akamaihd.net
+steamcommunity-a.akamaihd.net
+steammobile.akamaized.net
+steampipe-kr.akamaized.net
+steampipe-partner.akamaized.net
+steampipe.akamaized.net
+steamstore-a.akamaihd.net
+steamusercontent-a.akamaihd.net
+steamuserimages-a.akamaihd.net
+steamvideo-a.akamaihd.net
+steamcloudsweden.blob.core.windows.net
+steamugcquincy.blob.core.windows.net
+csgo.com.cn
+csgo.wmsj.cn
+dota2.com.cn
+dota2.wmsj.cn
+wmsjsteam.com
+client-update.queniuqe.com
+dl.steam.clngaa.com
+st.dl.bscstorage.net
+st.dl.eccdnx.com
+st.dl.pinyuncloud.com
+steampowered.com.8686c.com
+steamstatic.com.8686c.com
+alibaba.cdn.steampipe.steamcontent.com
+lv.queniujq.cn
+xz.pphimalayanrt.com
+steamchina.com
+gstore.val.manlaxy.com
 sih-db.com
 sih.app
 steaminventoryhelper.com
@@ -970,8 +995,8 @@ supercellgames.com
 supercellid.com
 supercellstore.com
 supr.cl
-full:supercell.helpshift.com
-full:supercell.zendesk.com
+supercell.helpshift.com
+supercell.zendesk.com
 2k.com
 2kcoretech.online
 2kct.onl
@@ -982,9 +1007,9 @@ rockstargames.com
 rockstarnorth.com
 rsg.ms
 rsg.sc
-full:gamedownloads-rockstargames-com.akamaized.net
-full:media-rockstargames-com.akamaized.net
-full:videos-rockstargames-com.akamaized.net
+gamedownloads-rockstargames-com.akamaized.net
+media-rockstargames-com.akamaized.net
+videos-rockstargames-com.akamaized.net
 zynga.com
 zyngaplayersupport.com
 zyngapoker.com
@@ -993,33 +1018,33 @@ ubi.com
 ubisoft.com
 ubisoftconnect.com
 uplay.com
-full:ubisoft-uplay-savegames.s3.amazonaws.com
-full:ubisoft-orbit-savegames.s3.amazonaws.com
-full:ubistatic1-a.akamaihd.net
-full:ubistatic2-a.akamaihd.net
-full:ubistatic3-a.akamaihd.net
-full:ubistatic4-a.akamaihd.net
-full:ubistatic5-a.akamaihd.net
-full:ubistatic6-a.akamaihd.net
-full:ubistatic7-a.akamaihd.net
-full:ubistatic8-a.akamaihd.net
-full:ubistatic9-a.akamaihd.net
-full:ubistatic10-a.akamaihd.net
-full:ubistatic11-a.akamaihd.net
-full:ubistatic12-a.akamaihd.net
-full:ubistatic13-a.akamaihd.net
-full:ubistatic14-a.akamaihd.net
-full:ubistatic15-a.akamaihd.net
-full:ubistatic16-a.akamaihd.net
-full:ubistatic17-a.akamaihd.net
-full:ubistatic18-a.akamaihd.net
-full:ubistatic19-a.akamaihd.net
-full:ubistatic20-a.akamaihd.net
-full:ubistatic21-a.akamaihd.net
-full:ubistatic22-a.akamaihd.net
-full:ubistatic23-a.akamaihd.net
-full:ubistatic24-a.akamaihd.net
-full:ubisoft.siteintercept.qualtrics.com
+ubisoft-uplay-savegames.s3.amazonaws.com
+ubisoft-orbit-savegames.s3.amazonaws.com
+ubistatic1-a.akamaihd.net
+ubistatic2-a.akamaihd.net
+ubistatic3-a.akamaihd.net
+ubistatic4-a.akamaihd.net
+ubistatic5-a.akamaihd.net
+ubistatic6-a.akamaihd.net
+ubistatic7-a.akamaihd.net
+ubistatic8-a.akamaihd.net
+ubistatic9-a.akamaihd.net
+ubistatic10-a.akamaihd.net
+ubistatic11-a.akamaihd.net
+ubistatic12-a.akamaihd.net
+ubistatic13-a.akamaihd.net
+ubistatic14-a.akamaihd.net
+ubistatic15-a.akamaihd.net
+ubistatic16-a.akamaihd.net
+ubistatic17-a.akamaihd.net
+ubistatic18-a.akamaihd.net
+ubistatic19-a.akamaihd.net
+ubistatic20-a.akamaihd.net
+ubistatic21-a.akamaihd.net
+ubistatic22-a.akamaihd.net
+ubistatic23-a.akamaihd.net
+ubistatic24-a.akamaihd.net
+ubisoft.siteintercept.qualtrics.com
 vrchat.cloud
 vrchat.com
 vrchat.net
@@ -1034,15 +1059,15 @@ worldofwarplanes.com
 worldofwarships.com
 wotblitz.com
 wowsblitz.com
-full:datarouter.apps.netherrealm.com
-full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+datarouter.apps.netherrealm.com
+wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 warnerbrosgames.com
 wbagora.com
 wbgames.com
 wbinsights.com
 asobostudio.com
 flightsimulator.com
-full:flightsimulator.azureedge.net
+flightsimulator.azureedge.net
 beth.games
 bethesda.net
 bethesdagamestudios.com
@@ -1053,7 +1078,7 @@ forza.net
 forzamotorsport.net
 forzaracingchampionship.com
 forzarc.com
-full:prodforza.blob.core.windows.net
+prodforza.blob.core.windows.net
 callersbane.com
 minecraft-services.net
 minecraft.net
@@ -1076,7 +1101,7 @@ xbox360.org
 xboxab.com
 xboxgamepass.com
 xboxgamestudios.com
-xboxlive.cn @cn
+xboxlive.cn
 xboxlive.com
 xboxone.co
 xboxone.com
@@ -1087,7 +1112,7 @@ xboxstudios.com
 xbx.lv
 ynoproject.net
 yo-star.com
-yostar.cn @cn
+yostar.cn
 yostar.co.jp
 yostar.net
 yostarplat.com

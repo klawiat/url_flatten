@@ -26,8 +26,8 @@ broadbandreports.com
 dslr.net
 dslreports.com
 dzen.ru
-log.dzen.ru @ads
-ms.dzen.ru @ads
+log.dzen.ru
+ms.dzen.ru
 dzeninfra.ru
 habr.com
 habrastorage.org
@@ -64,7 +64,7 @@ poecdn.net
 qr.ae
 quora.com
 quoracdn.net
-full:www.quora.com.cdn.cloudflare.net
+www.quora.com.cdn.cloudflare.net
 redd.it
 reddit.app.link
 reddit.com
@@ -92,7 +92,7 @@ xda-cdn.com
 xda-developers.com
 xdaforums.com
 xdaimages.com
-full:bbs.boingboing.net
+bbs.boingboing.net
 18p2p.com
 8chan.moe
 avsforum.com

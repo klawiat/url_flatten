@@ -74,7 +74,7 @@ idcgcloudcs.com
 iemiq.com
 igtm-meeting-tencent.com
 igtm.pub
-intltencentcos.com @!cn
+intltencentcos.com
 isd.com
 ispqcloud.com
 itopsdk.com
@@ -267,76 +267,76 @@ tdnsv12.net
 tdnsv13.net
 tdnsv14.net
 tdnsv15.net
-ap-hongkong.myqcloud.com @!cn       #中国香港
-ap-singapore.myqcloud.com @!cn      #新加坡
-ap-mumbai.myqcloud.com @!cn         #孟买
-ap-jakarta.myqcloud.com @!cn        #雅加达
-ap-seoul.myqcloud.com @!cn          #首尔
-ap-bangkok.myqcloud.com @!cn        #曼谷
-ap-tokyo.myqcloud.com @!cn          #东京
-na-siliconvalley.myqcloud.com @!cn  #硅谷（美西）
-na-ashburn.myqcloud.com @!cn        #弗吉尼亚（美东）
-na-toronto.myqcloud.com @!cn        #多伦多
-sa-saopaulo.myqcloud.com @!cn       #圣保罗
-eu-frankfurt.myqcloud.com @!cn      #法兰克福
-eu-moscow.myqcloud.com @!cn         #莫斯科
-ap-hongkong.tencentcos.cn @!cn
-ap-hongkong.tencentcos.com @!cn
-ap-hongkong.tencentcos.com.cn @!cn
-ap-singapore.tencentcos.cn @!cn
-ap-singapore.tencentcos.com @!cn
-ap-singapore.tencentcos.com.cn @!cn
-ap-mumbai.tencentcos.cn @!cn
-ap-mumbai.tencentcos.com @!cn
-ap-mumbai.tencentcos.com.cn @!cn
-ap-jakarta.tencentcos.cn @!cn
-ap-jakarta.tencentcos.com @!cn
-ap-jakarta.tencentcos.com.cn @!cn
-ap-seoul.tencentcos.cn @!cn
-ap-seoul.tencentcos.com @!cn
-ap-seoul.tencentcos.com.cn @!cn
-ap-bangkok.tencentcos.cn @!cn
-ap-bangkok.tencentcos.com @!cn
-ap-bangkok.tencentcos.com.cn @!cn
-ap-tokyo.tencentcos.cn @!cn
-ap-tokyo.tencentcos.com @!cn
-ap-tokyo.tencentcos.com.cn @!cn
-na-siliconvalley.tencentcos.cn @!cn
-na-siliconvalley.tencentcos.com @!cn
-na-siliconvalley.tencentcos.com.cn @!cn
-na-ashburn.tencentcos.cn @!cn
-na-ashburn.tencentcos.com @!cn
-na-ashburn.tencentcos.com.cn @!cn
-na-toronto.tencentcos.cn @!cn
-na-toronto.tencentcos.com @!cn
-na-toronto.tencentcos.com.cn @!cn
-sa-saopaulo.tencentcos.cn @!cn
-sa-saopaulo.tencentcos.com @!cn
-sa-saopaulo.tencentcos.com.cn @!cn
-eu-frankfurt.tencentcos.cn @!cn
-eu-frankfurt.tencentcos.com @!cn
-eu-frankfurt.tencentcos.com.cn @!cn
-eu-moscow.tencentcos.cn @!cn
-eu-moscow.tencentcos.com @!cn
-eu-moscow.tencentcos.com.cn @!cn
+ap-hongkong.myqcloud.com
+ap-singapore.myqcloud.com
+ap-mumbai.myqcloud.com
+ap-jakarta.myqcloud.com
+ap-seoul.myqcloud.com
+ap-bangkok.myqcloud.com
+ap-tokyo.myqcloud.com
+na-siliconvalley.myqcloud.com
+na-ashburn.myqcloud.com
+na-toronto.myqcloud.com
+sa-saopaulo.myqcloud.com
+eu-frankfurt.myqcloud.com
+eu-moscow.myqcloud.com
+ap-hongkong.tencentcos.cn
+ap-hongkong.tencentcos.com
+ap-hongkong.tencentcos.com.cn
+ap-singapore.tencentcos.cn
+ap-singapore.tencentcos.com
+ap-singapore.tencentcos.com.cn
+ap-mumbai.tencentcos.cn
+ap-mumbai.tencentcos.com
+ap-mumbai.tencentcos.com.cn
+ap-jakarta.tencentcos.cn
+ap-jakarta.tencentcos.com
+ap-jakarta.tencentcos.com.cn
+ap-seoul.tencentcos.cn
+ap-seoul.tencentcos.com
+ap-seoul.tencentcos.com.cn
+ap-bangkok.tencentcos.cn
+ap-bangkok.tencentcos.com
+ap-bangkok.tencentcos.com.cn
+ap-tokyo.tencentcos.cn
+ap-tokyo.tencentcos.com
+ap-tokyo.tencentcos.com.cn
+na-siliconvalley.tencentcos.cn
+na-siliconvalley.tencentcos.com
+na-siliconvalley.tencentcos.com.cn
+na-ashburn.tencentcos.cn
+na-ashburn.tencentcos.com
+na-ashburn.tencentcos.com.cn
+na-toronto.tencentcos.cn
+na-toronto.tencentcos.com
+na-toronto.tencentcos.com.cn
+sa-saopaulo.tencentcos.cn
+sa-saopaulo.tencentcos.com
+sa-saopaulo.tencentcos.com.cn
+eu-frankfurt.tencentcos.cn
+eu-frankfurt.tencentcos.com
+eu-frankfurt.tencentcos.com.cn
+eu-moscow.tencentcos.cn
+eu-moscow.tencentcos.com
+eu-moscow.tencentcos.com.cn
 costj.myqcloud.com                  #北京一区（华北）
 cosbj.myqcloud.com                  #北京
 cossh.myqcloud.com                  #上海（华东）
 cosgz.myqcloud.com                  #广州（华南）
 coscd.myqcloud.com                  #成都（西南）
-coshk.myqcloud.com @!cn             #中国香港
-cossgp.myqcloud.com @!cn            #新加坡
-cosca.myqcloud.com @!cn             #多伦多
-cosger.myqcloud.com @!cn            #法兰克福
+coshk.myqcloud.com
+cossgp.myqcloud.com
+cosca.myqcloud.com
+cosger.myqcloud.com
 tj.file.myqcloud.com                #北京一区（华北）
 bj.file.myqcloud.com                #北京
 sh.file.myqcloud.com                #上海（华东）
 gz.file.myqcloud.com                #广州（华南）
 cd.file.myqcloud.com                #成都（西南）
-hk.file.myqcloud.com @!cn           #中国香港
-sgp.file.myqcloud.com @!cn          #新加坡
-ca.file.myqcloud.com @!cn           #多伦多
-ger.file.myqcloud.com @!cn          #法兰克福
+hk.file.myqcloud.com
+sgp.file.myqcloud.com
+ca.file.myqcloud.com
+ger.file.myqcloud.com
 oracle-tencent.cn
 oracle-tencent.com
 oracle-tencent.com.cn
@@ -351,5 +351,5 @@ ym.run
 aegis.qq.com
 tamaegis.com
 rumt-zh.com
-rumt-sg.com @!cn        #新加坡
-rumt-us.com @!cn        #硅谷
+rumt-sg.com
+rumt-us.com

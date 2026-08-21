@@ -1,12 +1,12 @@
 pki.goog
-full:pki-goog.l.google.com @cn
-full:c.pki.goog @cn
-full:i.pki.goog @cn
-full:o.pki.goog @cn
-full:publicca.googleapis.com
-full:preprod-publicca.googleapis.com
-full:clients1.google.com
-full:pki.google.com
-full:crl.pki.goog @cn
-full:crls.pki.goog @cn
-full:ocsp.pki.goog @cn
+pki-goog.l.google.com
+c.pki.goog
+i.pki.goog
+o.pki.goog
+publicca.googleapis.com
+preprod-publicca.googleapis.com
+clients1.google.com
+pki.google.com
+crl.pki.goog
+crls.pki.goog
+ocsp.pki.goog
