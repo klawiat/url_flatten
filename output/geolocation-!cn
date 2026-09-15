@@ -2087,6 +2087,9 @@ standchartbank.tt.omtrdc.net
 link.com
 stripe-terminal-local-reader.net
 stripe.com
+stripe.dev
+stripe.events
+stripe.global
 stripe.network
 stripecdn.com
 transferwise.com
@@ -7301,6 +7304,7 @@ tiktokcdn.com.edgesuite.net
 tiktokv.com.edgekey.net
 tiktokv.com.edgesuite.net
 p16-tiktokcdn-com.akamaized.net
+p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
