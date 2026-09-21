@@ -374,14 +374,17 @@ fastlane.ci
 fastlane.tools
 crashlytics.com
 firebase.com
+firebase.dev
 firebase.io
 firebaseapp.com
 firebaseio.com
+firebase.google.com
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
-firebase.google.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com
@@ -426,6 +429,7 @@ cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+notebook.google
 notebook.google.com
 notebooklm.google
 notebooklm.google.com
@@ -434,6 +438,7 @@ jules.google.com
 labs.google
 labs.google.com
 flow.google
+flow.google.com
 aisandbox-pa.googleapis.com
 aicode.googleapis.com
 aida.googleapis.com
@@ -6239,10 +6244,9 @@ facebook.ca
 facebook.cc
 facebook.com
 facebook.design
-facebook.net
 facebook.hu
 facebook.in
-fecebook.net
+facebook.net
 facebook.nl
 facebook.org
 facebook.se
@@ -6449,6 +6453,7 @@ fecbbok.com
 fecbooc.com
 fecbook.com
 feceboock.com
+fecebook.net
 feceboox.com
 fececbook.com
 feook.com
@@ -6518,6 +6523,7 @@ sportsfacebook.com
 sportstream.com
 supportfacebook.com
 terragraph.com
+tfbnw.net
 thefacebook.com
 thefacebook.net
 thefind.com
@@ -7549,6 +7555,7 @@ motorolacareers.com
 motorolanews.com
 motorolasolutions.com
 extendfirefox.com
+firefox-portal-detection.com
 firefox.com
 firefox.hu
 firefoxtweetmachine.com

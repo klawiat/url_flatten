@@ -4,6 +4,7 @@ redirect.archlinux.org # Canonical Name of ping.archlinux.org
 cp.cloudflare.com
 network-test.debian.org
 detectportal.firefox.com
+firefox-portal-detection.com
 nmcheck.gnome.org
 connectivitycheck.gstatic.com
 www.gstatic.com
