@@ -4344,11 +4344,14 @@ bard.google.com
 gemini.google
 gemini.google.com
 gemini.gstatic.com
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+labstailwind.pa.googleapis.com
 notebook.google
 notebook.google.com
 notebooklm.google
@@ -6874,6 +6877,8 @@ atmeta.com
 llama.com
 meta.ai
 meta.com
+metaaivm.com
+muse.ai
 azure
 21vbc.com
 21vbluecloud.com
@@ -8385,6 +8390,7 @@ theta.sogoucdn.com
 uranus.sogou.com
 wuliao.epro.sogou.com
 cnb.cool
+cnb.space
 coding.me
 coding.net
 openmidas.com
