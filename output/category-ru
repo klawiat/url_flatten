@@ -245,6 +245,7 @@ pravilno-pishem.ru   # Website about proper spelling in russian
 tak-pravilno.com     # Website about proper spelling in russian
 altaiobr04.ru
 chelyabinsk-sgo-edu-74.ru
+hse.ru                # Higher School of Economics University
 obr03.ru
 setevoygorodkrasnodar.ru
 sgo-egov66.ru
@@ -261,6 +262,9 @@ trbcdn.net
 kinorium.com
 kinopoisk.ru
 kinopoisk-ru.clstorage.net
+kp.yandex.net
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 okkoapi.tv
 playfamily.ru
 okko.sport
@@ -286,15 +290,16 @@ rutubelist.ru
 rtbcdn.ru
 rutube.sport
 dtf.ru           # Platform for discussing games, movies, development, technology and everything else in the world
+joyreactor.cc    # All-purpose RU forum
 opennet.dev      # Website about open source, linux, BSD and unix systems
 opennet.ru       # Opennent`s alternative domain
-prodota.ru       # Website about Dota 2
 pikabu.ru        # Popular forum
+prodota.ru       # Website about Dota 2
 tischenko.su     # Opennent`s alternative domain
 vc.ru            # Popular forum
+yap.ru           # Yaplakal`s alternative domain
 yapfiles.ru      # Free file storage service
 yaplakal.com     # Entertainment forum
-yap.ru           # Yaplakal`s alternative domain
 gov.ru          # Russian government server
 government.ru   # The official website of the Russian government
 gosuslugi.ru    # Government services portal
@@ -319,6 +324,7 @@ izbirkom.ru     # Information on ongoing elections and referendums
 kremlin.ru      # Online representation of the President of Russia
 mil.ru          # Ministry of Defense of the Russian Federation
 nalog.ru        # Federal Tax Service
+regionvideo.ru  # CDN edges for government agitations
 xn--80ajghhoc2aj1c8b.xn--p1ai     # Honest Sign - State Labeling System
 xn--90aivcdt6dxbc.xn--p1ai        # Explaining Russia - A website with answers to questions
 xn--b1afabzvcegckfhg.xn--p1ai     # Military Registration Register
@@ -437,6 +443,8 @@ surgut.ru       # Khanty-Mansi Autonomous Area – Yugra
 yamal.ru        # Yamal-Nenets Autonomous Area
 yanao.ru        # Yamalo-Nenets Autonomous Okrug
 zdrav10.ru      # Republic of Karelia
+mospat.ru       # Organization of the Department of External Church Relations of the Moscow Patriarchate
+patriarchia.ru  # Offician Moscow Patriarchate resource
 jinrieluosi.cn
 pressria.ru
 rossiyasegodnya.com
@@ -579,6 +587,13 @@ eadaily.net
 eadaily.org
 eadaily.su
 eurasiadaily.su
+azbyka.ru
+posledovania.ru
+pravoslavie.ru
+webtypikon.ru
+xn--80adfddrquddgz.xn--p1ai # последование.рф
+pravmir.com
+pravmir.ru
 klinikabudzdorov.ru
 emias.info
 emias.mos.ru
@@ -767,6 +782,17 @@ beserver.ru
 bget.ru
 sprut.io
 xn--90aefb9d.xn--p1ai
+1c-bitrix.ru
+bitrix.info
+bitrix24.com
+bitrix24.net
+bitrix24.ru
+bitrix24.tech
+bitrix24public.com
+bitrix24shop.ru
+bitrix24site.ru
+bitrixphone.com
+bitrixsoft.com
 carrot-mail.io
 carrotquest-mail.io
 carrotquest.app
@@ -1024,9 +1050,11 @@ s16.upd.kaspersky.com
 s17.upd.kaspersky.com
 s18.upd.kaspersky.com
 s19.upd.kaspersky.com
-kontur.ru
-kontur.host
 kontur-inc.com
+kontur.host
+kontur.ru
+ktalk.host
+ktalk.ru
 metrika.kontur.ru
 sentry.kontur.host
 dzen.ru
@@ -2033,6 +2061,10 @@ nbki.ru
 efin.ru
 banki.ru
 finuslugi.ru
+amt-insurance.com
+lexgarant.com
+renins.com
+renins.ru
 sistema-capital.com
 mironline.ru
 mirpayonline.ru
@@ -2059,6 +2091,7 @@ tvoyodbo.online
 kion.ru
 mtsmedia.ru
 on-media.ru
+mts-link.ru
 azbukainterneta.ru
 rostelecom.ru
 rt.ru
@@ -2072,6 +2105,7 @@ dom.ru
 mcc250.pub.3gppnetwork.org # Mobile IMS
 3ebra.net          # Zebra Net Bureau, web development agency
 apptrackpets.com   # Pet GPS tracker service (Yandex Cloud, reg.ru)
+chat2desk.com      # Omnichannel communications platform and chat center
 flomni.com         # Omnichannel communications platform
 foto-planeta.com   # Photo encyclopedia of settlements
 gazfond-pn.ru      # Non-state pension fund GAZFOND pension savings
@@ -2084,6 +2118,7 @@ pochta.ru          # Russian post
 ponyexpress.ru     # Courier delivery service
 qms.ru             # Russian internet speed testing service
 randomgodbot.com   # Telegram randomizer bot
+robohall.tech      # Robohall, creative engineering and robotics studio (Moscow, Russia)
 srv-hub.org        # Website buider
 t1.cloud           # Russian cloud storage provider
 taxsee.com         # Taxi for business (self-employed drivers)
