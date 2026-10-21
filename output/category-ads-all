@@ -2819,8 +2819,10 @@ api-adservices.apple.com
 iadsdk.apple.com
 iad.apple.com
 qwapi.com
+avito.com
 avito.ru
 avito.st
+avito.tech
 stats.avito.ru
 baidu
 91.com
@@ -7867,6 +7869,7 @@ production-openaicom-storage.azureedge.net
 ||*chatgpt-async-webps-prod-S+-d+.webpubsub.azure.com*
 browser-intake-datadoghq.com
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 openai.qualtrics.com
 chatgpt.livekit.cloud
 host.livekit.cloud

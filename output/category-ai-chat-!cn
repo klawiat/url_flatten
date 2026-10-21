@@ -1,10 +1,20 @@
+ant.dev
 anthropic.com
+anthropic.team
+antspace.dev # https://github.com/AprilNEA/reverse-engineering-claude-code-antspace
+chatbotclaude.com
 clau.de
 claude.ai
+claude.app
 claude.com
 claude.dev
+claude.new
+claude.site
+claudeacademy.com
 claudemcpclient.com
 claudemcpcontent.com
+claudepages.dev
+claudestudio.com
 claudeusercontent.com
 servd-anthropic-website.b-cdn.net
 cici.com
@@ -113,6 +123,7 @@ production-openaicom-storage.azureedge.net
 ||*chatgpt-async-webps-prod-S+-d+.webpubsub.azure.com*
 browser-intake-datadoghq.com
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 openai.qualtrics.com
 chatgpt.livekit.cloud
 host.livekit.cloud
