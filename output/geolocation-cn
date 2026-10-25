@@ -230,7 +230,6 @@ elecfans.com
 hqchip.com
 hqdoc.com
 hqpcb.com
-infineon.cn
 gosinoic.com
 h3c.com
 moedu.com
@@ -245,6 +244,10 @@ unisemicon.com
 unisoc.com
 unispc.com
 uniswdc.com
+infineon.cn
+iotronic.tech
+quecmall.cn
+quectel.com.cn
 fa-part.com
 forface3d.com
 jlc-3dp.cn
@@ -289,9 +292,7 @@ szlcsc.com
 zs-jlc.com
 zxhgroup.com
 listenai.com
-quecmall.cn
-quectel.com.cn
-iotronic.tech
+nanocorechip.com
 rock-chips.com
 seeed.cn
 seeed.cc
@@ -441,7 +442,6 @@ gcloudcstestonly.com
 gclouddolphin.com
 gcloudsdk.com
 gcloudsvcs.com
-gdtimg.com
 goto-game.com
 goto-game.mobi
 goto-game.net.cn
@@ -2372,14 +2372,18 @@ abchina.com
 bankcomm.cn
 bankcomm.com
 bankofbeijing.com.cn
+bocd.com.cn
 bosc.cn
 bsb.com.cn
+cdrcb.com
+cdrcbank.com
 cebbank.com
 cgbchina.com.cn
 cib.com.cn
 citibank.com.cn
 cmbc.com.cn
 hxb.com.cn
+ibangbank.com
 njcb.com.cn
 psbc.com
 spdb.com.cn
@@ -3571,10 +3575,17 @@ zhongliujie.com
 gov.cn
 mil.cn
 acftu.org
+bigdatacq.com
 cgigc.com.cn
 cma.cn
 conac.cn
+cqdcg.com
+cqge.com.cn
+cqsdlys.cn
+cqyyxc.com
+digitalcnzz.com
 fnrrc.com
+gpzshq.cn
 nmc.cn
 pbccrc.org.cn
 piyao.org.cn
@@ -3899,6 +3910,7 @@ aichaoxing.com
 chaoxing.cc
 chaoxing.com
 chaoxingv.com
+cldisk.com
 cxbiji.com
 dayainfo.com
 hongbo100.com
@@ -3921,6 +3933,7 @@ uonline-sh.net
 xuexi365.com
 xuexi365.com.cn
 xuexi365.net
+xuexitong.com
 xxtmail.com
 ylike.net
 zaifan.com
@@ -3994,8 +4007,8 @@ chaz.fun
 huijistatic.com
 huijiwiki.com
 mcmod.cn
-moegirl.org
-moegirl.org.cn
+app.moegirl.org.cn
+storage.moegirl.org.cn
 pwsannong.com
 qiuwenbaike.cn
 qiuwen.wiki
@@ -4356,6 +4369,8 @@ ifdian.net
 agora.io
 agoraio.cn
 agoralab.co
+easemob.com
+shengwang.cn
 capitalonline.net
 mirrors.yun-idc.com
 chinaso.com
@@ -4496,6 +4511,7 @@ zhubajie.com
 53kf.com
 7moor-fs1.com
 7moor.com
+aaej.cn
 air-matters.com
 api.blipsandchitz.me
 alookweb.com
@@ -4557,6 +4573,8 @@ ireader.com
 zhangyue.com
 zhangyue01.com
 zhangyuecdn.com
+isigning.cn
+isigning.com
 jobui.com
 meishichina.com
 meishitx.com
@@ -4567,7 +4585,6 @@ paidui.com
 sangfor.com.cn
 sencdn.com
 seniverse.com
-shengwang.cn
 shixiseng.com
 sxsimg.com
 xiaoyuanzhao.com
@@ -6772,6 +6789,7 @@ btrace.qq.com
 bugly.qq.com
 e.qq.com
 gdt.qq.com
+gdtimg.com
 hq-tracking.qq.com
 htrace.wetvinfo.com
 isdspeed.qq.com
@@ -7102,6 +7120,7 @@ chaziyu.com # 滇ICP备2024035496号
 fofa.info # Fofa网站测绘（华顺信安）
 i4.cn # 爱思助手
 icplishi.com # 粤ICP备20009057号
+ip.cn # IP.cn 查询网
 ip138.com # ip138查询网
 ipchaxun.com # 滇ICP备2024035496号
 ipchaxun.net # 粤ICP备20009057号
