@@ -80,6 +80,7 @@ cosmosdb.net
 devopsms.com
 gotcosmos.com
 hdinsightservices.cn
+in.applicationinsights.azure.com
 management-azure-devices-int.net
 management-azure-devices-provisioning.cn
 management-azure-devices.cn
@@ -134,6 +135,8 @@ azchcdnr.com
 azchcdns.com
 azure.microsoft.com
 azuremarketplace.microsoft.com
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
 azure-dns.cn
 azure-dns.com
 azure-dns.info

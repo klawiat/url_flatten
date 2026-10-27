@@ -66,6 +66,9 @@ gemini.google.com
 gemini.gstatic.com
 geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
@@ -163,12 +166,17 @@ kimi.ai
 moonshot.ai
 meta.ai
 metaaivm.com
+metaaiusercontent.com
 muse.ai
 agentclientprotocol.com
 anythingllm.com
 arena.ai
+artificialanalysis.ai
 chutes.ai
 clawhub.ai
+cline.bot
+commandcode.ai
+context7.com
 crewai.com
 devin.ai
 diabrowser.com
@@ -188,6 +196,7 @@ minimax.io
 mistral.ai
 mozilla.ai
 notegpt.io
+nousresearch.com
 novelai.net
 ollama.com
 openart.ai

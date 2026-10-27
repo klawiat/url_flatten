@@ -66,6 +66,9 @@ gemini.google.com
 gemini.gstatic.com
 geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
@@ -163,12 +166,17 @@ kimi.ai
 moonshot.ai
 meta.ai
 metaaivm.com
+metaaiusercontent.com
 muse.ai
 agentclientprotocol.com
 anythingllm.com
 arena.ai
+artificialanalysis.ai
 chutes.ai
 clawhub.ai
+cline.bot
+commandcode.ai
+context7.com
 crewai.com
 devin.ai
 diabrowser.com
@@ -188,6 +196,7 @@ minimax.io
 mistral.ai
 mozilla.ai
 notegpt.io
+nousresearch.com
 novelai.net
 ollama.com
 openart.ai
@@ -2151,6 +2160,7 @@ schwab.com.sg
 schwabassetmanagement.com
 schwabcdn.com
 schwabplan.com
+thinkorswim.com
 sc.com
 standardchartered.com
 standchartbank.sc.omtrdc.net
@@ -2165,6 +2175,7 @@ stripe.network
 stripecdn.com
 transferwise.com
 wise.com
+firstrade.com
 fxcorporate.com
 jivara.global
 mql5.com
@@ -18029,6 +18040,7 @@ vscodeedu.com
 xamarin.com
 az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
+dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
 download.visualstudio.microsoft.com
@@ -18038,6 +18050,7 @@ poshtestgallery.cloudapp.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 rink.hockeyapp.net
+rt.services.visualstudio.com
 vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
@@ -21070,13 +21083,15 @@ api-edge.apps.apple.com
 communities.apple.com
 discussionschinese.apple.com
 fides-pol.apple.com
-gspe11-2-cn-ssl.ls.apple.com
 gspe12-cn-ssl.ls.apple.com
 gspe85-cn-ssl.ls.apple.com
 init.gc-lb.apple.com.akadns.net
 init.gc.apple.com
 km.support.apple.com
 maps.apple.com
+sh-pod1-smp-device.apple.com
+sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 tj-pod1-smp-device.apple.com
 tj-pod2-smp-device.apple.com
 tj-pod3-smp-device.apple.com
@@ -21147,6 +21162,7 @@ gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com
+gspe11-2-cn-ssl.ls.apple.com
 gspe19-2-cn-ssl.ls-apple.com.akadns.net
 gspe19-2-cn-ssl.ls.apple.com
 gspe19-cn-ssl.ls.apple.com
@@ -21184,7 +21200,6 @@ seed-sequoia.siri.apple.com
 seed-swallow.siri.apple.com
 seed.siri.apple.com
 sequoia.apple.com
-sh-pod2-smp-device.apple.com
 shazam-insights.cdn-apple.com
 smp-device-content.apple.com
 static.gc.apple.com
@@ -23683,6 +23698,7 @@ cosmosdb.net
 devopsms.com
 gotcosmos.com
 hdinsightservices.cn
+in.applicationinsights.azure.com
 management-azure-devices-int.net
 management-azure-devices-provisioning.cn
 management-azure-devices.cn
@@ -23737,6 +23753,8 @@ azchcdnr.com
 azchcdns.com
 azure.microsoft.com
 azuremarketplace.microsoft.com
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
 azure-dns.cn
 azure-dns.com
 azure-dns.info
@@ -23878,6 +23896,7 @@ cortanaskills.com
 crmdynint-gcc.com
 crmdynint.com
 crossborderexpansion.com
+data.microsoft.com
 docs.com
 dynamics.cn
 dynamics.com
@@ -24065,6 +24084,7 @@ t-msedge.net
 tailwindtraders.com
 techhub.ms
 tfsallin.net
+telemetry.microsoft.com
 translatetheweb.com
 unlocklimitlesslearning.com
 userpxt.io

@@ -80,6 +80,7 @@ cosmosdb.net
 devopsms.com
 gotcosmos.com
 hdinsightservices.cn
+in.applicationinsights.azure.com
 management-azure-devices-int.net
 management-azure-devices-provisioning.cn
 management-azure-devices.cn
@@ -134,6 +135,8 @@ azchcdnr.com
 azchcdns.com
 azure.microsoft.com
 azuremarketplace.microsoft.com
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
 azure-dns.cn
 azure-dns.com
 azure-dns.info
@@ -313,6 +316,7 @@ vscodeedu.com
 xamarin.com
 az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
+dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
 download.visualstudio.microsoft.com
@@ -322,6 +326,7 @@ poshtestgallery.cloudapp.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 rink.hockeyapp.net
+rt.services.visualstudio.com
 vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
@@ -476,6 +481,7 @@ cortanaskills.com
 crmdynint-gcc.com
 crmdynint.com
 crossborderexpansion.com
+data.microsoft.com
 docs.com
 dynamics.cn
 dynamics.com
@@ -663,6 +669,7 @@ t-msedge.net
 tailwindtraders.com
 techhub.ms
 tfsallin.net
+telemetry.microsoft.com
 translatetheweb.com
 unlocklimitlesslearning.com
 userpxt.io
