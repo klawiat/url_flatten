@@ -944,8 +944,10 @@ inappcheck.itunes.apple.com
 init.itunes.apple.com
 iosapps.itunes.apple.com
 misc-assets.itunes.apple.com
+musicstatus.itunes.apple.com
 mvod.itunes.apple.com
 myapp.itunes.apple.com
+mzstorekit.itunes.apple.com
 osxapps.itunes.apple.com
 pd-nk.itunes.apple.com
 pd.itunes.apple.com
@@ -1652,11 +1654,13 @@ apple.com.akadns.net
 configuration-lb.ls-apple.com.akadns.net
 push-apple.com.akadns.net
 courier-push-apple.com.akadns.net
+captive.apple.com
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
 api-edge.apps.apple.com
 communities.apple.com
+configuration.ls.apple.com
 discussionschinese.apple.com
 fides-pol.apple.com
 gspe12-cn-ssl.ls.apple.com

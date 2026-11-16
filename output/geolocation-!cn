@@ -275,6 +275,7 @@ vpngate.jp
 vpngate.net
 docs.rw
 log.rw
+remna.dev
 remna.st
 try.rw
 matsuridayo.github.io
@@ -1883,6 +1884,9 @@ vtb.ru
 vtbbo.ru
 vtbglobalperspectives.com
 xn--90ab2c.xn--p1ai
+bank.yandex.ru
+yandex-bank.net
+yb-payment.ru
 credit-zenit.ru
 zenit-card.ru
 zenit.ru
@@ -1917,7 +1921,6 @@ aversbank.ru                  # PJSC Bank Avers
 bancaintesa.ru                # JSC Banca Intesa
 bank-arzamas.ru               # JSC CB Arzamas
 bank-hlynov.ru                # JSC CB Khlynov
-bank.yandex.ru                # JSC Yandex Bank
 bankermak.ru                  # JSC Bank Ermak
 bankofkazan.ru                # LLC CBER Bank of Kazan
 bankperm.ru                   # JSC Bank Perm
@@ -3597,6 +3600,7 @@ cryptomus.com
 curve.fi
 cyberx.com
 debank.com
+debot.ai
 delets.cash
 delets.online
 dogecoin.com
@@ -5745,11 +5749,12 @@ playgwent.com
 thewitcher.com
 curseforge.com
 forgecdn.net
-cygames.jp
 cygames.co.jp
+cygames.com
+cygames.jp
 worldflipper.jp
-worldflipper.akamaized.net
 umamusume.akamaized.net
+worldflipper.akamaized.net
 dawngate.com
 eastore.com
 lordofultima.com
@@ -7141,8 +7146,10 @@ inappcheck.itunes.apple.com
 init.itunes.apple.com
 iosapps.itunes.apple.com
 misc-assets.itunes.apple.com
+musicstatus.itunes.apple.com
 mvod.itunes.apple.com
 myapp.itunes.apple.com
+mzstorekit.itunes.apple.com
 osxapps.itunes.apple.com
 pd-nk.itunes.apple.com
 pd.itunes.apple.com
@@ -18057,9 +18064,11 @@ vscodeedu.com
 xamarin.com
 az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
+builds.dotnet.microsoft.com
 dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
+dotnetcli.trafficmanager.net
 download.visualstudio.microsoft.com
 dtlgalleryint.cloudapp.net
 packages.microsoft.com
@@ -18068,9 +18077,11 @@ psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 rink.hockeyapp.net
 rt.services.visualstudio.com
+sundry-star-net-geo.trafficmanager.net
 vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
+vscode.download.prss.microsoft.com
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
 mongodb.com
@@ -21107,11 +21118,13 @@ apple.com.akadns.net
 configuration-lb.ls-apple.com.akadns.net
 push-apple.com.akadns.net
 courier-push-apple.com.akadns.net
+captive.apple.com
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
 api-edge.apps.apple.com
 communities.apple.com
+configuration.ls.apple.com
 discussionschinese.apple.com
 fides-pol.apple.com
 gspe12-cn-ssl.ls.apple.com
@@ -24202,7 +24215,6 @@ surface.download.prss.microsoft.com
 surface.downloads.prss.microsoft.com
 vlportal.download.prss.microsoft.com
 volic.download.prss.microsoft.com
-vscode.download.prss.microsoft.com
 vz.download.prss.microsoft.com
 windbg.download.prss.microsoft.com
 mikrotik.com
@@ -25183,7 +25195,6 @@ ya.cc
 ya.ru
 yadi.sk
 yandex-ad.cn
-yandex-bank.net
 yandex-team.com
 yandex-team.ru
 yandex.aero
