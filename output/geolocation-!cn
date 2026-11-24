@@ -99,6 +99,7 @@ antigravity.googleapis.com
 antigravity.google
 antigravity-unleash.goog
 stitch.withgoogle.com
+gemma.ai
 groq.com
 hf.co
 hf.space
@@ -2957,10 +2958,12 @@ videodelivery.net
 warp.plus
 workers.dev
 fastly-edge.com
+fastly-insights.com
 fastly-terrarium.com
 fastly.com
 fastly.io
 fastly.net
+fastlydns.net
 fastlylabs.com
 fastlylb.net
 imgix.com
@@ -5630,6 +5633,7 @@ zotero.org
 ankiuser.net
 ankiweb.net
 chemequations.com # 线上化学方程式！
+courses.myecnu.org # ECNU·课栈
 divdyn.com
 geogebra.org
 githubhelp.com
@@ -17780,6 +17784,7 @@ dartlang.org
 dartpad.dev
 debian.org
 dotdeb.org
+debian.map.fastlydns.net
 discourse-cdn.com
 discourse.group
 discourse.org
@@ -18117,6 +18122,7 @@ nixos.org
 nixpkgs.org
 nix-community.github.io
 builtwithnix.org
+cachix.org
 mynixos.com
 nix-community.org
 nixos.wiki
@@ -18215,6 +18221,7 @@ tildacdn.com
 tildacdn.net
 unity.com
 unity3d.com
+vivox.com
 analytics.cloud.unity3d.com
 config.uca.cloud.unity3d.com
 cdp.cloud.unity3d.com
